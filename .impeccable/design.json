@@ -1,0 +1,56 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-09-06T15:26:24Z",
+  "title": "Design System: Arnav Bule GitHub Profile",
+  "extensions": {
+    "colorMeta": {
+      "dark-accent": { "role": "primary", "displayName": "Pale green signal" },
+      "light-accent": { "role": "primary", "displayName": "Moss green signal" },
+      "dark-warm": { "role": "secondary", "displayName": "Warm identity response" },
+      "light-warm": { "role": "secondary", "displayName": "Earth identity response" },
+      "dark-bg": { "role": "neutral", "displayName": "Graphite canvas" },
+      "light-bg": { "role": "neutral", "displayName": "Warm paper canvas" }
+    },
+    "typographyMeta": {
+      "display-desktop": { "displayName": "Outlined name", "purpose": "Uppercase Space Grotesk glyph paths; natural tracking; width capped at 635 SVG units." },
+      "display-mobile": { "displayName": "Mobile outlined name", "purpose": "Recomposed mobile hero; width capped at 565 SVG units." },
+      "prose-desktop": { "displayName": "Outlined tagline", "purpose": "Hero supporting prose; separate from GitHub-controlled README text." },
+      "terminal-desktop": { "displayName": "Terminal commands", "purpose": "Live SVG text using system monospace fallbacks." }
+    },
+    "shadows": [],
+    "motion": [
+      { "name": "signal-pulse", "value": "travel 12s linear infinite", "purpose": "Stroke dash offset travels from 100 to 0; opacity 0 at start, .9 at 8% and 72%, 0 at 86% and 100%." },
+      { "name": "signal-reduced-motion", "value": "animation:none;opacity:0", "purpose": "Applied to the pulse under prefers-reduced-motion: reduce; the static signal remains." },
+      { "name": "project-reduced-motion", "value": "prefers-reduced-motion: reduce", "purpose": "QR seasons GIF switches to the static project capture through a picture source." }
+    ],
+    "breakpoints": [
+      { "name": "readme-mobile-artwork-max", "value": "600px" },
+      { "name": "preview-shell-controls-max", "value": "700px" }
+    ]
+  },
+  "components": [],
+  "narrative": {
+    "northStar": "A builder's terminal",
+    "overview": "Extracted from the accepted developer-terminal direction and implemented artwork. Graphite and warm paper support strong outlined lettering, a compact console, and original branching circuit geometry. Descriptive wording is provisional; root DESIGN.md owns implemented tokens. The custom SVG system, GitHub-controlled README, and local preview shell are distinct surfaces.",
+    "keyCharacteristics": [
+      "Quiet green signal paths with one warm identity response",
+      "Outlined Space Grotesk paired with readable terminal text",
+      "Real project imagery and direct textual links",
+      "Theme variants and a recomposed mobile introduction"
+    ],
+    "rules": [
+      { "name": "The Host Boundary Rule", "body": "Custom artwork tokens do not override GitHub typography or page chrome. Local preview styling only approximates the host.", "section": "colors" }
+    ],
+    "dos": [
+      "Do generate all theme and viewport variants from shared sources.",
+      "Do preserve static reduced-motion reading and meaningful image alternatives.",
+      "Do maintain provenance for inspectable project captures.",
+      "Do derive graph nodes and accessible counts from the same data."
+    ],
+    "donts": [
+      "Don't infer exact live GitHub sanitization or spacing from the preview.",
+      "Don't put arbitrary JavaScript in the README.",
+      "Don't convert repository distribution into proficiency claims."
+    ]
+  }
+}

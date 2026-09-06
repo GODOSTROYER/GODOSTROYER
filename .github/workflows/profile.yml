@@ -1,0 +1,78 @@
+name: Refresh profile
+
+on:
+  schedule:
+    - cron: '17 3 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main, master]
+    paths:
+      - 'profile.config.json'
+      - 'scripts/**'
+      - 'tests/**'
+      - 'assets/fonts/**'
+      - 'assets/projects/**'
+      - '.github/workflows/profile.yml'
+  pull_request:
+    paths:
+      - 'README.md'
+      - 'profile.config.json'
+      - 'scripts/**'
+      - 'tests/**'
+      - 'data/**'
+      - 'assets/**'
+      - '.github/workflows/profile.yml'
+
+permissions:
+  contents: read
+
+concurrency:
+  group: profile-${{ github.event.pull_request.number || 'refresh' }}
+  cancel-in-progress: false
+
+jobs:
+  validate:
+    if: github.event_name == 'pull_request'
+    runs-on: ubuntu-24.04
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
+        with:
+          persist-credentials: false
+      - name: Validate data and generated artifacts without network or secrets
+        run: |
+          python3 scripts/update_profile.py --offline
+          python3 scripts/render_profile.py --check
+          python3 -m unittest discover -s tests -v
+
+  refresh:
+    if: github.event_name != 'pull_request' && github.repository_owner == 'GODOSTROYER' && (github.event_name != 'push' || github.ref_name == github.event.repository.default_branch)
+    runs-on: ubuntu-24.04
+    timeout-minutes: 10
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
+        with:
+          ref: ${{ github.event.repository.default_branch }}
+      - name: Refresh public GitHub data
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        run: python3 scripts/update_profile.py
+      - name: Render and verify
+        run: |
+          python3 scripts/update_profile.py --offline
+          python3 scripts/render_profile.py
+          python3 scripts/render_profile.py --check
+          python3 -m unittest discover -s tests -v
+      - name: Commit changed generated files
+        run: |
+          git add -- README.md data/activity.json assets/generated
+          if git diff --cached --quiet; then
+            echo "Generated profile is unchanged."
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -m 'chore: refresh profile data and artwork'
+          git push

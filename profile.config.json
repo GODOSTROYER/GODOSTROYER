@@ -1,0 +1,71 @@
+{
+  "username": "GODOSTROYER",
+  "name": "Arnav Bule",
+  "tagline": "Ideas into systems. Systems into something useful.",
+  "focus": "Local AI / full-stack tools / creative interfaces",
+  "featured_repos": [
+    "GODOSTROYER/sentinel-vad",
+    "GODOSTROYER/zenith",
+    "GODOSTROYER/qr-tree-studio"
+  ],
+  "projects": [
+    {
+      "title": "Sentinel",
+      "repo": "sentinel-vad",
+      "repo_url": "https://github.com/GODOSTROYER/sentinel-vad",
+      "demo_url": null,
+      "stack": [
+        "Python",
+        "PyTorch",
+        "OpenCV",
+        "Qwen3-VL"
+      ],
+      "release_url": "https://github.com/GODOSTROYER/sentinel-vad/releases/tag/hackathon-polished",
+      "subtitle": "Local AI, with evidence",
+      "image": "assets/projects/sentinel.jpg",
+      "description": "A local video anomaly detection pipeline combining CLIP, Qwen3-VL and temporal evidence. The review dashboard puts detections, event timelines and supporting evidence in one place.",
+      "alt": "Sentinel review dashboard showing video anomaly results, evidence and timeline."
+    },
+    {
+      "title": "Zenith.ai",
+      "repo": "zenith",
+      "repo_url": "https://github.com/GODOSTROYER/zenith",
+      "demo_url": "https://orrery-three-kappa.vercel.app",
+      "stack": [
+        "TypeScript",
+        "Next.js",
+        "React",
+        "Tailwind CSS"
+      ],
+      "release_url": null,
+      "subtitle": "Infrastructure, in view",
+      "image": "assets/projects/zenith.png",
+      "description": "A visual workspace for mapping systems, reviewing deployment plans and exporting Terraform. Make the relationships in a stack easier to see and reason about.",
+      "alt": "Zenith system map showing connected infrastructure resources and a resource inspector.",
+      "note": "Sandbox operations are simulated; the AWS workflow provides plans and exports."
+    },
+    {
+      "title": "QR Tree Studio",
+      "repo": "qr-tree-studio",
+      "repo_url": "https://github.com/GODOSTROYER/qr-tree-studio",
+      "demo_url": "https://qr-tree-studio.vercel.app",
+      "stack": [
+        "JavaScript",
+        "React",
+        "Vite",
+        "WebGPU"
+      ],
+      "release_url": null,
+      "subtitle": "A QR code that grows",
+      "image": "assets/projects/qr-tree.jpg",
+      "description": "Turn a URL into a scannable voxel tree. Explore seasonal themes, tune the palette and switch to a top-down QR view in an interactive 3D canvas.",
+      "alt": "QR Tree Studio showing a summer voxel tree, URL input and seasonal controls.",
+      "note": "Built with the open-source magic-tree-qr rendering engine.",
+      "animation": "assets/projects/qr-seasons.gif"
+    }
+  ],
+  "links": {
+    "github": "https://github.com/GODOSTROYER",
+    "portfolio": "https://arnavbule.in"
+  }
+}

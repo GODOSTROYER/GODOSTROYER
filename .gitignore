@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.env
+.env.*
+!.env.example
+.impeccable/review/
+.impeccable/mocks/
+.impeccable/decisions/
+preview/
+research/
+data/discovery.json
+*.log
+/profile-bundle.zip
