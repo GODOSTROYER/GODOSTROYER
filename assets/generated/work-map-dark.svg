@@ -1,28 +1,28 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="290" viewBox="0 0 1200 290" role="img" aria-labelledby="map-title map-desc">
 <title id="map-title">The shape of my public work</title>
-<desc id="map-desc">18 public non-fork, non-archived repositories, grouped by primary language: TypeScript: 6, Python: 6, JavaScript: 3, Other languages: 3. Each small node is one repository. This measures repository distribution, not proficiency.</desc>
+<desc id="map-desc">18 public non-fork, non-archived repositories, grouped by primary language: Python: 7, TypeScript: 5, JavaScript: 3, Other languages: 3. Each small node is one repository. This measures repository distribution, not proficiency.</desc>
 <rect width="1200" height="290" rx="8" fill="#10191b"/>
 <style>text{font-family:Consolas,"Liberation Mono",monospace}</style>
 <text x="32" y="40" font-size="20" fill="#edf2e8">The shape of my public work</text>
 <text x="32" y="73" font-size="14" fill="#a6b5ad">One node, one repository.</text>
 <path d="M34 133V187H269" fill="none" stroke="#a6b5ad" stroke-opacity=".32"/>
-<text x="34" y="125" fill="#edf2e8" font-size="19">TypeScript</text>
-<text x="34" y="154" fill="#a6b5ad" font-size="14">6 repositories</text>
+<text x="34" y="125" fill="#edf2e8" font-size="19">Python</text>
+<text x="34" y="154" fill="#a6b5ad" font-size="14">7 repositories</text>
 <circle cx="48" cy="187" r="4" fill="#bce16b"/>
 <circle cx="67" cy="187" r="4" fill="#bce16b"/>
 <circle cx="86" cy="187" r="4" fill="#bce16b"/>
 <circle cx="105" cy="187" r="4" fill="#bce16b"/>
 <circle cx="124" cy="187" r="4" fill="#bce16b"/>
 <circle cx="143" cy="187" r="4" fill="#bce16b"/>
+<circle cx="162" cy="187" r="4" fill="#bce16b"/>
 <path d="M329 133V187H564" fill="none" stroke="#a6b5ad" stroke-opacity=".32"/>
-<text x="329" y="125" fill="#edf2e8" font-size="19">Python</text>
-<text x="329" y="154" fill="#a6b5ad" font-size="14">6 repositories</text>
+<text x="329" y="125" fill="#edf2e8" font-size="19">TypeScript</text>
+<text x="329" y="154" fill="#a6b5ad" font-size="14">5 repositories</text>
 <circle cx="343" cy="187" r="4" fill="#bce16b"/>
 <circle cx="362" cy="187" r="4" fill="#bce16b"/>
 <circle cx="381" cy="187" r="4" fill="#bce16b"/>
 <circle cx="400" cy="187" r="4" fill="#bce16b"/>
 <circle cx="419" cy="187" r="4" fill="#bce16b"/>
-<circle cx="438" cy="187" r="4" fill="#bce16b"/>
 <path d="M624 133V187H859" fill="none" stroke="#a6b5ad" stroke-opacity=".32"/>
 <text x="624" y="125" fill="#edf2e8" font-size="19">JavaScript</text>
 <text x="624" y="154" fill="#a6b5ad" font-size="14">3 repositories</text>
