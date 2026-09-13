@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="640" height="495" viewBox="0 0 640 495" role="img" aria-labelledby="map-title map-desc">
 <title id="map-title">The shape of my public work</title>
-<desc id="map-desc">19 public non-fork, non-archived repositories, grouped by primary language: Python: 7, TypeScript: 6, JavaScript: 3, Other languages: 3. Each small node is one repository. This measures repository distribution, not proficiency.</desc>
+<desc id="map-desc">20 public non-fork, non-archived repositories, grouped by primary language: Python: 7, TypeScript: 6, JavaScript: 3, Other languages: 4. Each small node is one repository. This measures repository distribution, not proficiency.</desc>
 <rect width="640" height="495" rx="8" fill="#f3f5ec"/>
 <style>text{font-family:Consolas,"Liberation Mono",monospace}</style>
 <text x="32" y="40" font-size="26" fill="#172722">The shape of my public work</text>
@@ -32,9 +32,10 @@
 <circle cx="86" cy="372" r="4" fill="#47691e"/>
 <path d="M332 318V372H567" fill="none" stroke="#50645a" stroke-opacity=".32"/>
 <text x="332" y="310" fill="#172722" font-size="22">Other languages</text>
-<text x="332" y="339" fill="#50645a" font-size="18">3 repositories</text>
+<text x="332" y="339" fill="#50645a" font-size="18">4 repositories</text>
 <circle cx="346" cy="372" r="4" fill="#47691e"/>
 <circle cx="365" cy="372" r="4" fill="#47691e"/>
 <circle cx="384" cy="372" r="4" fill="#47691e"/>
+<circle cx="403" cy="372" r="4" fill="#47691e"/>
 <text x="32" y="467" fill="#50645a" font-size="15">Public work · forks and archives excluded</text>
 </svg>

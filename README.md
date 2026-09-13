@@ -90,7 +90,7 @@ Local models, visual infrastructure, and the occasional idea that grows into a t
   <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/generated/work-map-mobile-dark.svg">
   <source media="(max-width: 600px)" srcset="assets/generated/work-map-mobile-light.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/generated/work-map-dark.svg">
-  <img src="assets/generated/work-map-light.svg" width="1200" alt="19 public repositories by primary language: Python: 7, TypeScript: 6, JavaScript: 3, Other languages: 3. One node per repository. Forks, archives, and this profile repository excluded. Repository distribution, not proficiency.">
+  <img src="assets/generated/work-map-light.svg" width="1200" alt="20 public repositories by primary language: Python: 7, TypeScript: 6, JavaScript: 3, Other languages: 4. One node per repository. Forks, archives, and this profile repository excluded. Repository distribution, not proficiency.">
 </picture>
 
 <details>
