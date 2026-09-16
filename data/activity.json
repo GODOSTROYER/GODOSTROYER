@@ -4,13 +4,13 @@
   "updated_at": "2026-09-06T15:46:54Z",
   "repositories": [
     {
-      "full_name": "GODOSTROYER/cadence",
-      "name": "cadence",
-      "updated_at": "2026-09-16T00:06:35Z",
-      "pushed_at": "2026-09-16T00:06:31Z",
-      "html_url": "https://github.com/GODOSTROYER/cadence",
-      "description": "Cadence — an evaluated AI support agent for @SpotifyCares (intent classification, grounded reply drafting, escalation) with a golden set, LLM-as-judge harness and dashboard. Hiver SDE Intern take-home.",
-      "homepage": "https://cadence-rho-eight.vercel.app",
+      "full_name": "GODOSTROYER/cto.newtest",
+      "name": "cto.newtest",
+      "updated_at": "2026-09-16T16:58:43Z",
+      "pushed_at": "2026-09-16T16:58:40Z",
+      "html_url": "https://github.com/GODOSTROYER/cto.newtest",
+      "description": null,
+      "homepage": null,
       "language": "Python",
       "stargazers_count": 0,
       "forks_count": 0,
@@ -18,38 +18,10 @@
       "fork": false
     },
     {
-      "full_name": "GODOSTROYER/Zenith-plugins",
-      "name": "Zenith-plugins",
-      "updated_at": "2026-09-15T18:18:49Z",
-      "pushed_at": "2026-09-15T21:33:57Z",
-      "html_url": "https://github.com/GODOSTROYER/Zenith-plugins",
-      "description": null,
-      "homepage": null,
-      "language": "JavaScript",
-      "stargazers_count": 0,
-      "forks_count": 0,
-      "archived": false,
-      "fork": false
-    },
-    {
-      "full_name": "GODOSTROYER/zenith",
-      "name": "zenith",
-      "updated_at": "2026-09-15T18:15:41Z",
-      "pushed_at": "2026-09-15T22:28:20Z",
-      "html_url": "https://github.com/GODOSTROYER/zenith",
-      "description": null,
-      "homepage": "https://orrery-three-kappa.vercel.app",
-      "language": "TypeScript",
-      "stargazers_count": 1,
-      "forks_count": 0,
-      "archived": false,
-      "fork": false
-    },
-    {
       "full_name": "GODOSTROYER/GODOSTROYER",
       "name": "GODOSTROYER",
-      "updated_at": "2026-09-15T08:46:32Z",
-      "pushed_at": "2026-09-15T08:46:28Z",
+      "updated_at": "2026-09-16T16:58:33Z",
+      "pushed_at": "2026-09-16T16:58:29Z",
       "html_url": "https://github.com/GODOSTROYER/GODOSTROYER",
       "description": "Arnav Bule | Projects, experiments, and public work",
       "homepage": null,
@@ -60,18 +32,284 @@
       "fork": false
     },
     {
-      "full_name": "GODOSTROYER/arnav-portfolio-2025",
-      "name": "arnav-portfolio-2025",
-      "updated_at": "2026-09-12T14:10:19Z",
-      "pushed_at": "2026-09-12T14:10:15Z",
-      "html_url": "https://github.com/GODOSTROYER/arnav-portfolio-2025",
-      "description": null,
-      "homepage": "https://arnav-portfolio-2025.vercel.app",
+      "full_name": "GODOSTROYER/azure-databricks-ecommerce-analytics",
+      "name": "azure-databricks-ecommerce-analytics",
+      "updated_at": "2026-09-16T16:58:03Z",
+      "pushed_at": "2026-09-16T16:57:55Z",
+      "html_url": "https://github.com/GODOSTROYER/azure-databricks-ecommerce-analytics",
+      "description": "Medallion (Bronze/Silver/Gold) e-commerce analytics platform on Azure Databricks: Unity Catalog governance, Delta Live Tables with quality expectations and a quarantine table, Auto Loader streaming, and multi-environment delivery via Databricks Asset Bundles + GitHub Actions.",
+      "homepage": null,
+      "language": "Python",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "archived": false,
+      "fork": false
+    },
+    {
+      "full_name": "GODOSTROYER/rackvisionv1",
+      "name": "rackvisionv1",
+      "updated_at": "2026-09-16T16:56:30Z",
+      "pushed_at": "2026-09-16T16:55:58Z",
+      "html_url": "https://github.com/GODOSTROYER/rackvisionv1",
+      "description": "RackVision - a frontend-only infrastructure visualization module in a Pulseway-style admin dashboard: globe, site and rack drill-downs over mock data.",
+      "homepage": "https://rackvision.vercel.app",
+      "language": "TypeScript",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "archived": false,
+      "fork": false
+    },
+    {
+      "full_name": "GODOSTROYER/Trishool",
+      "name": "Trishool",
+      "updated_at": "2026-09-16T16:56:29Z",
+      "pushed_at": "2026-09-16T16:56:06Z",
+      "html_url": "https://github.com/GODOSTROYER/Trishool",
+      "description": "Trishool Health AI - an Expo / React Native app for non-invasive anemia, diabetes and hypertension risk screening, backed by Convex.",
+      "homepage": null,
+      "language": "TypeScript",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "archived": false,
+      "fork": false
+    },
+    {
+      "full_name": "GODOSTROYER/Zenith-plugins",
+      "name": "Zenith-plugins",
+      "updated_at": "2026-09-16T16:56:25Z",
+      "pushed_at": "2026-09-16T16:55:52Z",
+      "html_url": "https://github.com/GODOSTROYER/Zenith-plugins",
+      "description": "MCP connector and generated Claude Code / Codex plugins for Zenith: scoped reads plus opt-in, browser-reviewed operations.",
+      "homepage": null,
       "language": "JavaScript",
       "stargazers_count": 0,
       "forks_count": 0,
       "archived": false,
       "fork": false
+    },
+    {
+      "full_name": "GODOSTROYER/zenith",
+      "name": "zenith",
+      "updated_at": "2026-09-16T16:56:24Z",
+      "pushed_at": "2026-09-16T16:55:42Z",
+      "html_url": "https://github.com/GODOSTROYER/zenith",
+      "description": "Local-first deployment and operations platform: one typed manifest behind a system map, source view, REST API and agent, with priced plans, streaming deploys and Terraform export.",
+      "homepage": "https://orrery-three-kappa.vercel.app",
+      "language": "TypeScript",
+      "stargazers_count": 1,
+      "forks_count": 0,
+      "archived": false,
+      "fork": false
+    },
+    {
+      "full_name": "GODOSTROYER/arnav-portfolio-2025",
+      "name": "arnav-portfolio-2025",
+      "updated_at": "2026-09-16T16:55:50Z",
+      "pushed_at": "2026-09-16T16:55:46Z",
+      "html_url": "https://github.com/GODOSTROYER/arnav-portfolio-2025",
+      "description": "Personal portfolio of Arnav Bule (Next.js 15 static export, Vercel) - live at www.arnavbule.in",
+      "homepage": "https://www.arnavbule.in",
+      "language": "JavaScript",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "archived": false,
+      "fork": false
+    },
+    {
+      "full_name": "GODOSTROYER/calquity-intern-task",
+      "name": "calquity-intern-task",
+      "updated_at": "2026-09-16T16:55:29Z",
+      "pushed_at": "2026-09-16T16:55:20Z",
+      "html_url": "https://github.com/GODOSTROYER/calquity-intern-task",
+      "description": "Hybrid Search in PGVector: Dense vs Dense+Sparse Comparison",
+      "homepage": null,
+      "language": "HTML",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "archived": false,
+      "fork": false
+    },
+    {
+      "full_name": "GODOSTROYER/Voice-Cloner-Qwen-Arnav",
+      "name": "Voice-Cloner-Qwen-Arnav",
+      "updated_at": "2026-09-16T16:55:20Z",
+      "pushed_at": "2026-09-16T16:55:11Z",
+      "html_url": "https://github.com/GODOSTROYER/Voice-Cloner-Qwen-Arnav",
+      "description": "Parrot AI — voice cloning and speech synthesis on Qwen3-TTS-12Hz-1.7B. FastAPI backend with Whisper auto-transcription, a saved voice library, voice design, preset speakers and multi-speaker dialogue.",
+      "homepage": null,
+      "language": "Python",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "archived": false,
+      "fork": false
+    },
+    {
+      "full_name": "GODOSTROYER/task-tracker-deployment",
+      "name": "task-tracker-deployment",
+      "updated_at": "2026-09-16T16:53:56Z",
+      "pushed_at": "2026-09-16T16:53:45Z",
+      "html_url": "https://github.com/GODOSTROYER/task-tracker-deployment",
+      "description": "Deployment snapshot of the Mini Task Tracker (Next.js 15 + Express + MongoDB + Redis), prepared for a Vercel frontend / Railway backend split. Current code lives in GODOSTROYER/task-tracker.",
+      "homepage": null,
+      "language": "TypeScript",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "archived": false,
+      "fork": false
+    },
+    {
+      "full_name": "GODOSTROYER/zillow-medallion-databricks",
+      "name": "zillow-medallion-databricks",
+      "updated_at": "2026-09-16T16:53:37Z",
+      "pushed_at": "2026-09-16T16:53:30Z",
+      "html_url": "https://github.com/GODOSTROYER/zillow-medallion-databricks",
+      "description": "Bronze-layer medallion pipeline on Databricks: the Zillow Economics dataset ingested into Unity Catalog four ways (COPY INTO, Auto Loader, PySpark XML, Delta Live Tables), orchestrated by one job and deployed as an Asset Bundle.",
+      "homepage": null,
+      "language": "Jupyter Notebook",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "archived": false,
+      "fork": false
+    },
+    {
+      "full_name": "GODOSTROYER/vedaai-answer-mapping",
+      "name": "vedaai-answer-mapping",
+      "updated_at": "2026-09-16T16:52:59Z",
+      "pushed_at": "2026-09-16T16:52:38Z",
+      "html_url": "https://github.com/GODOSTROYER/vedaai-answer-mapping",
+      "description": "VedaAI - extracts every exam question, maps a student's handwritten answers to them with exact ink-region highlights, and grades. DeepSeek-OCR-2 on a local GPU + GPT-5.6 Luna via the Codex CLI. Superseded by Parakh.",
+      "homepage": null,
+      "language": "TypeScript",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "archived": false,
+      "fork": false
+    },
+    {
+      "full_name": "GODOSTROYER/HSN-Classifier-LLM",
+      "name": "HSN-Classifier-LLM",
+      "updated_at": "2026-09-16T16:52:14Z",
+      "pushed_at": "2026-09-16T16:52:07Z",
+      "html_url": "https://github.com/GODOSTROYER/HSN-Classifier-LLM",
+      "description": "HSN-Classifier-LLM leverages advanced AI and a Retrieval-Augmented Generation (RAG) pipeline to correctly classify products according to the Harmonized System (HS) Nomenclature and the General Rules of Interpretation (GRI).",
+      "homepage": null,
+      "language": "Python",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "archived": false,
+      "fork": false
+    },
+    {
+      "full_name": "GODOSTROYER/MIT-Result-Scraper",
+      "name": "MIT-Result-Scraper",
+      "updated_at": "2026-09-16T16:52:12Z",
+      "pushed_at": "2026-09-16T16:51:52Z",
+      "html_url": "https://github.com/GODOSTROYER/MIT-Result-Scraper",
+      "description": "A Simple Python based program using Selenium , Pandas that Scrapes the Results off the MIT Student's Portal. ",
+      "homepage": null,
+      "language": "Python",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "archived": false,
+      "fork": false
+    },
+    {
+      "full_name": "GODOSTROYER/My-Portfolio-Website",
+      "name": "My-Portfolio-Website",
+      "updated_at": "2026-09-16T16:49:43Z",
+      "pushed_at": "2026-09-16T16:49:35Z",
+      "html_url": "https://github.com/GODOSTROYER/My-Portfolio-Website",
+      "description": "My First Portfolio Website , Arnav.Fun :)",
+      "homepage": null,
+      "language": "JavaScript",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "archived": false,
+      "fork": false
+    },
+    {
+      "full_name": "GODOSTROYER/sicklesense",
+      "name": "sicklesense",
+      "updated_at": "2026-09-16T16:49:22Z",
+      "pushed_at": "2026-09-16T16:49:09Z",
+      "html_url": "https://github.com/GODOSTROYER/sicklesense",
+      "description": "AI sickle-cell screening from blood-smear images: ResNet50 (TensorFlow) model behind a Streamlit app, deployed as a Hugging Face Space",
+      "homepage": null,
+      "language": "Jupyter Notebook",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "archived": false,
+      "fork": false
+    },
+    {
+      "full_name": "GODOSTROYER/parakh",
+      "name": "parakh",
+      "updated_at": "2026-09-16T16:49:07Z",
+      "pushed_at": "2026-09-16T16:48:44Z",
+      "html_url": "https://github.com/GODOSTROYER/parakh",
+      "description": "Parakh - serverless exam checker: upload a question paper and a handwritten answer sheet; every answer found, highlighted and graded (Next.js + Gemini).",
+      "homepage": "https://www.arnavbule.in/parakh",
+      "language": "JavaScript",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "archived": false,
+      "fork": false
+    },
+    {
+      "full_name": "GODOSTROYER/cadence",
+      "name": "cadence",
+      "updated_at": "2026-09-16T16:49:00Z",
+      "pushed_at": "2026-09-16T16:47:58Z",
+      "html_url": "https://github.com/GODOSTROYER/cadence",
+      "description": "Cadence — an evaluated AI support agent for @SpotifyCares (intent classification, grounded reply drafting, escalation) with a golden set, LLM-as-judge harness and dashboard. Hiver SDE Intern take-home.",
+      "homepage": "https://www.arnavbule.in/hiver-assignment",
+      "language": "Python",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "archived": false,
+      "fork": false
+    },
+    {
+      "full_name": "GODOSTROYER/qr-tree-studio",
+      "name": "qr-tree-studio",
+      "updated_at": "2026-09-16T16:48:43Z",
+      "pushed_at": "2026-09-16T16:48:38Z",
+      "html_url": "https://github.com/GODOSTROYER/qr-tree-studio",
+      "description": "Vite + React/WebGPU experience for turning URLs and text into scannable 3D voxel QR trees",
+      "homepage": "https://qr-studio.arnavbule.in",
+      "language": "JavaScript",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "archived": false,
+      "fork": false
+    },
+    {
+      "full_name": "GODOSTROYER/sentinel-vad",
+      "name": "sentinel-vad",
+      "updated_at": "2026-09-16T16:48:26Z",
+      "pushed_at": "2026-09-16T16:48:22Z",
+      "html_url": "https://github.com/GODOSTROYER/sentinel-vad",
+      "description": "Sentinel: local video anomaly detection with a trained CLIP head, Qwen3-VL 2B LoRA, temporal evidence and measured GPU runtime",
+      "homepage": "https://huggingface.co/spaces/GODOSTROYER/sentinel",
+      "language": "Python",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "archived": false,
+      "fork": false
+    },
+    {
+      "full_name": "GODOSTROYER/Portfolio-1",
+      "name": "Portfolio-1",
+      "updated_at": "2026-09-16T15:30:26Z",
+      "pushed_at": "2026-09-12T20:01:24Z",
+      "html_url": "https://github.com/GODOSTROYER/Portfolio-1",
+      "description": "My Portfolio Website",
+      "homepage": "https://portfolio-two-murex-p8r6yjoqtw.vercel.app",
+      "language": null,
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "archived": false,
+      "fork": true
     },
     {
       "full_name": "GODOSTROYER/Portfolio",
@@ -82,48 +320,6 @@
       "description": "My Portfolio Website",
       "homepage": "https://portfolio-two-murex-p8r6yjoqtw.vercel.app",
       "language": null,
-      "stargazers_count": 0,
-      "forks_count": 0,
-      "archived": false,
-      "fork": false
-    },
-    {
-      "full_name": "GODOSTROYER/sentinel-vad",
-      "name": "sentinel-vad",
-      "updated_at": "2026-09-05T14:23:09Z",
-      "pushed_at": "2026-09-05T14:23:06Z",
-      "html_url": "https://github.com/GODOSTROYER/sentinel-vad",
-      "description": "Sentinel: local video anomaly detection with a trained CLIP head, Qwen3-VL 2B LoRA, temporal evidence and measured GPU runtime",
-      "homepage": null,
-      "language": "Python",
-      "stargazers_count": 0,
-      "forks_count": 0,
-      "archived": false,
-      "fork": false
-    },
-    {
-      "full_name": "GODOSTROYER/qr-tree-studio",
-      "name": "qr-tree-studio",
-      "updated_at": "2026-09-02T22:56:26Z",
-      "pushed_at": "2026-09-02T22:56:07Z",
-      "html_url": "https://github.com/GODOSTROYER/qr-tree-studio",
-      "description": null,
-      "homepage": "https://qr-tree-studio.vercel.app",
-      "language": "JavaScript",
-      "stargazers_count": 0,
-      "forks_count": 0,
-      "archived": false,
-      "fork": false
-    },
-    {
-      "full_name": "GODOSTROYER/vedaai-answer-mapping",
-      "name": "vedaai-answer-mapping",
-      "updated_at": "2026-08-26T15:08:06Z",
-      "pushed_at": "2026-08-26T14:55:39Z",
-      "html_url": "https://github.com/GODOSTROYER/vedaai-answer-mapping",
-      "description": null,
-      "homepage": null,
-      "language": "TypeScript",
       "stargazers_count": 0,
       "forks_count": 0,
       "archived": false,
@@ -144,20 +340,6 @@
       "fork": true
     },
     {
-      "full_name": "GODOSTROYER/HSN-Classifier-LLM",
-      "name": "HSN-Classifier-LLM",
-      "updated_at": "2026-06-04T21:00:08Z",
-      "pushed_at": "2026-06-04T20:59:23Z",
-      "html_url": "https://github.com/GODOSTROYER/HSN-Classifier-LLM",
-      "description": "HSN-Classifier-LLM leverages advanced AI and a Retrieval-Augmented Generation (RAG) pipeline to correctly classify products according to the Harmonized System (HS) Nomenclature and the General Rules of Interpretation (GRI).",
-      "homepage": null,
-      "language": "Python",
-      "stargazers_count": 0,
-      "forks_count": 0,
-      "archived": false,
-      "fork": false
-    },
-    {
       "full_name": "GODOSTROYER/task-tracker",
       "name": "task-tracker",
       "updated_at": "2026-04-29T22:20:16Z",
@@ -165,104 +347,6 @@
       "html_url": "https://github.com/GODOSTROYER/task-tracker",
       "description": "A full-stack task management app built with Next.js 15, Express, MongoDB, and Redis.",
       "homepage": "https://wldd-task-tracker.vercel.app",
-      "language": "TypeScript",
-      "stargazers_count": 0,
-      "forks_count": 0,
-      "archived": false,
-      "fork": false
-    },
-    {
-      "full_name": "GODOSTROYER/Trishool",
-      "name": "Trishool",
-      "updated_at": "2026-04-17T06:38:45Z",
-      "pushed_at": "2026-04-17T06:38:39Z",
-      "html_url": "https://github.com/GODOSTROYER/Trishool",
-      "description": null,
-      "homepage": null,
-      "language": "TypeScript",
-      "stargazers_count": 0,
-      "forks_count": 0,
-      "archived": false,
-      "fork": false
-    },
-    {
-      "full_name": "GODOSTROYER/Voice-Cloner-Qwen-Arnav",
-      "name": "Voice-Cloner-Qwen-Arnav",
-      "updated_at": "2026-03-26T10:26:18Z",
-      "pushed_at": "2026-05-04T18:44:13Z",
-      "html_url": "https://github.com/GODOSTROYER/Voice-Cloner-Qwen-Arnav",
-      "description": null,
-      "homepage": null,
-      "language": "Python",
-      "stargazers_count": 0,
-      "forks_count": 0,
-      "archived": false,
-      "fork": false
-    },
-    {
-      "full_name": "GODOSTROYER/rackvisionv1",
-      "name": "rackvisionv1",
-      "updated_at": "2026-03-24T21:43:09Z",
-      "pushed_at": "2026-03-24T21:43:03Z",
-      "html_url": "https://github.com/GODOSTROYER/rackvisionv1",
-      "description": null,
-      "homepage": "https://rackvision.vercel.app",
-      "language": "TypeScript",
-      "stargazers_count": 0,
-      "forks_count": 0,
-      "archived": false,
-      "fork": false
-    },
-    {
-      "full_name": "GODOSTROYER/sicklesense",
-      "name": "sicklesense",
-      "updated_at": "2026-03-22T10:38:42Z",
-      "pushed_at": "2026-03-22T10:38:38Z",
-      "html_url": "https://github.com/GODOSTROYER/sicklesense",
-      "description": null,
-      "homepage": null,
-      "language": "Jupyter Notebook",
-      "stargazers_count": 0,
-      "forks_count": 0,
-      "archived": false,
-      "fork": false
-    },
-    {
-      "full_name": "GODOSTROYER/zillow-medallion-databricks",
-      "name": "zillow-medallion-databricks",
-      "updated_at": "2026-03-10T10:36:10Z",
-      "pushed_at": "2026-01-06T10:02:38Z",
-      "html_url": "https://github.com/GODOSTROYER/zillow-medallion-databricks",
-      "description": null,
-      "homepage": null,
-      "language": "Jupyter Notebook",
-      "stargazers_count": 0,
-      "forks_count": 0,
-      "archived": false,
-      "fork": false
-    },
-    {
-      "full_name": "GODOSTROYER/azure-databricks-ecommerce-analytics",
-      "name": "azure-databricks-ecommerce-analytics",
-      "updated_at": "2026-03-10T10:35:52Z",
-      "pushed_at": "2026-01-19T15:07:10Z",
-      "html_url": "https://github.com/GODOSTROYER/azure-databricks-ecommerce-analytics",
-      "description": null,
-      "homepage": null,
-      "language": "Python",
-      "stargazers_count": 0,
-      "forks_count": 0,
-      "archived": false,
-      "fork": false
-    },
-    {
-      "full_name": "GODOSTROYER/task-tracker-deployment",
-      "name": "task-tracker-deployment",
-      "updated_at": "2026-02-20T08:33:46Z",
-      "pushed_at": "2026-02-20T08:33:41Z",
-      "html_url": "https://github.com/GODOSTROYER/task-tracker-deployment",
-      "description": null,
-      "homepage": null,
       "language": "TypeScript",
       "stargazers_count": 0,
       "forks_count": 0,
@@ -282,62 +366,6 @@
       "forks_count": 0,
       "archived": false,
       "fork": true
-    },
-    {
-      "full_name": "GODOSTROYER/cto.newtest",
-      "name": "cto.newtest",
-      "updated_at": "2025-12-12T18:55:01Z",
-      "pushed_at": "2025-12-12T19:44:58Z",
-      "html_url": "https://github.com/GODOSTROYER/cto.newtest",
-      "description": null,
-      "homepage": null,
-      "language": "Python",
-      "stargazers_count": 0,
-      "forks_count": 0,
-      "archived": false,
-      "fork": false
-    },
-    {
-      "full_name": "GODOSTROYER/calquity-intern-task",
-      "name": "calquity-intern-task",
-      "updated_at": "2025-07-12T07:41:00Z",
-      "pushed_at": "2025-07-12T07:40:56Z",
-      "html_url": "https://github.com/GODOSTROYER/calquity-intern-task",
-      "description": "Hybrid Search in PGVector: Dense vs Dense+Sparse Comparison",
-      "homepage": null,
-      "language": "HTML",
-      "stargazers_count": 0,
-      "forks_count": 0,
-      "archived": false,
-      "fork": false
-    },
-    {
-      "full_name": "GODOSTROYER/MIT-Result-Scraper",
-      "name": "MIT-Result-Scraper",
-      "updated_at": "2025-02-05T13:26:45Z",
-      "pushed_at": "2024-06-28T20:07:26Z",
-      "html_url": "https://github.com/GODOSTROYER/MIT-Result-Scraper",
-      "description": "A Simple Python based program using Selenium , Pandas that Scrapes the Results off the MIT Student's Portal. ",
-      "homepage": null,
-      "language": "Python",
-      "stargazers_count": 0,
-      "forks_count": 0,
-      "archived": false,
-      "fork": false
-    },
-    {
-      "full_name": "GODOSTROYER/My-Portfolio-Website",
-      "name": "My-Portfolio-Website",
-      "updated_at": "2023-10-21T08:32:48Z",
-      "pushed_at": "2023-10-21T08:45:54Z",
-      "html_url": "https://github.com/GODOSTROYER/My-Portfolio-Website",
-      "description": "My First Portfolio Website , Arnav.Fun :)",
-      "homepage": null,
-      "language": "JavaScript",
-      "stargazers_count": 0,
-      "forks_count": 0,
-      "archived": false,
-      "fork": false
     },
     {
       "full_name": "GODOSTROYER/MagiskOnWSA",
@@ -422,7 +450,7 @@
     }
   ],
   "contributions": {
-    "total": 536,
+    "total": 697,
     "from": "2025-09-14T00:00:00Z",
     "to": "2026-09-16T23:59:59Z",
     "weeks": [
@@ -1314,7 +1342,7 @@
           {
             "date": "2026-02-20",
             "count": 10,
-            "level": 2
+            "level": 1
           },
           {
             "date": "2026-02-21",
@@ -2347,17 +2375,17 @@
           {
             "date": "2026-08-24",
             "count": 11,
-            "level": 2
+            "level": 1
           },
           {
             "date": "2026-08-25",
             "count": 16,
-            "level": 2
+            "level": 1
           },
           {
             "date": "2026-08-26",
-            "count": 32,
-            "level": 4
+            "count": 35,
+            "level": 2
           },
           {
             "date": "2026-08-27",
@@ -2396,7 +2424,7 @@
           {
             "date": "2026-09-02",
             "count": 24,
-            "level": 3
+            "level": 1
           },
           {
             "date": "2026-09-03",
@@ -2411,7 +2439,7 @@
           {
             "date": "2026-09-05",
             "count": 9,
-            "level": 2
+            "level": 1
           }
         ]
       },
@@ -2420,12 +2448,12 @@
           {
             "date": "2026-09-06",
             "count": 9,
-            "level": 2
+            "level": 1
           },
           {
             "date": "2026-09-07",
-            "count": 30,
-            "level": 4
+            "count": 36,
+            "level": 2
           },
           {
             "date": "2026-09-08",
@@ -2445,12 +2473,12 @@
           {
             "date": "2026-09-11",
             "count": 29,
-            "level": 4
+            "level": 2
           },
           {
             "date": "2026-09-12",
             "count": 15,
-            "level": 2
+            "level": 1
           }
         ]
       },
@@ -2459,7 +2487,7 @@
           {
             "date": "2026-09-13",
             "count": 47,
-            "level": 4
+            "level": 2
           },
           {
             "date": "2026-09-14",
@@ -2468,13 +2496,13 @@
           },
           {
             "date": "2026-09-15",
-            "count": 47,
+            "count": 115,
             "level": 4
           },
           {
             "date": "2026-09-16",
-            "count": 17,
-            "level": 3
+            "count": 101,
+            "level": 4
           }
         ]
       }
