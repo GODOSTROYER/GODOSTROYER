@@ -21,9 +21,9 @@ The local preview, research notes, caches, and discovery scratch data are exclud
 
 ## Change the content
 
-Edit `profile.config.json`, then run `python scripts/render_profile.py`. It controls identity, focus, project descriptions, project links, and screenshot paths. Write factual descriptions of what each project currently does. Replace screenshots with real product images and update their provenance in `assets/projects/SOURCES.md`.
+Edit `profile.config.json`, then run `python scripts/render_profile.py`. It controls identity, focus, the featured project table, project descriptions, project links, screenshot paths, tooling, certifications, and the closing list of other work. Write factual descriptions of what each project currently does, and confirm every live link still answers before publishing it. Replace screenshots with real product images and update their provenance in `assets/projects/SOURCES.md`.
 
-The three featured projects are Sentinel, Zenith.ai and QR Tree Studio. QR Tree Studio uses the open-source magic-tree-qr renderer; its attribution remains in the profile. Zenith's cloud plan/export limitation is stated next to its demonstration.
+The three projects shown in detail are Sentinel, Zenith.ai and QR Tree Studio. QR Tree Studio uses the open-source magic-tree-qr renderer; its attribution remains in the profile. Zenith's cloud plan/export limitation is stated next to its demonstration.
 
 ## Update the activity
 

@@ -80,6 +80,47 @@ class RendererTests(unittest.TestCase):
         self.assertIn("&lt;script&gt;", result)
         self.assertIn("&quot;", result)
 
+    def test_untrusted_featured_rows_and_credentials_cannot_inject_markup(self):
+        malicious = '\"><script>alert(1)</script><img src=x onerror="alert(1)"> & test'
+        config = copy.deepcopy(self.config)
+        featured = config["featured"][0]
+        for key in ("name", "summary"):
+            featured[key] = malicious
+        featured["links_note"] = malicious
+        config["skills"] = [malicious]
+        config["certifications"] = [malicious]
+        config["more"] = [{"label": malicious, "url": "https://example.com", "note": malicious}]
+        config["role"] = malicious
+        config["intro"] = [malicious]
+        result = renderer.render_readme(config, self.snapshot)
+        parser = MarkupAudit()
+        parser.feed(result)
+        self.assertEqual(parser.unsafe, [])
+        self.assertIn("&lt;script&gt;", result)
+
+    def test_featured_rows_link_only_what_exists(self):
+        config = copy.deepcopy(self.config)
+        config["featured"] = [
+            {"name": "Public", "summary": "Has both.", "live_url": "https://example.com", "repo_url": "https://github.com/user/repo"},
+            {"name": "Sourceless", "summary": "Has neither.", "live_url": None, "repo_url": None, "links_note": "Private repository"},
+        ]
+        table = renderer.featured_table(config["featured"])
+        self.assertNotIn("\n\n", table, "A blank line would end the HTML block mid-table")
+        self.assertEqual(table.count("<tr>"), 3)
+        rows = table.splitlines()
+        self.assertIn('<a href="https://example.com">Live\u00a0↗</a>', rows[2])
+        self.assertIn('<a href="https://github.com/user/repo">Code\u00a0↗</a>', rows[2])
+        self.assertNotIn("<a ", rows[3])
+        self.assertIn("<sub>Private repository</sub>", rows[3])
+
+    def test_contact_address_must_be_a_plain_address(self):
+        for value in ("javascript:alert(1)", "arnav@example.com?subject=hi", "no-at-sign", "spaced out@example.com",
+                      '"><img src=x onerror=alert(1)>@example.com', "arnav@example"):
+            with self.subTest(value=value), self.assertRaises(ValueError):
+                renderer.mail_link(value)
+        self.assertEqual(renderer.mail_link("a.b-c@example.co.in"),
+                         '<a href="mailto:a.b-c@example.co.in">a.b-c@example.co.in</a>')
+
     def test_language_labels_remain_xml_text(self):
         self.snapshot["repositories"] = [{"name": "safe", "language": '<script>alert("x")</script> & language', "fork": False, "archived": False}]
         result = ET.fromstring(renderer.work_map(self.snapshot, "dark"))

@@ -1,19 +1,73 @@
 {
   "username": "GODOSTROYER",
   "name": "Arnav Bule",
+  "role": "AI/ML developer based in Pune, India.",
+  "intro": [
+    "I build practical AI systems and interactive web experiences.",
+    "Local models, visual infrastructure, and the occasional idea that grows into a tree."
+  ],
   "tagline": "Ideas into systems. Systems into something useful.",
   "focus": "Local AI / full-stack tools / creative interfaces",
   "featured_repos": [
+    "GODOSTROYER/cadence",
+    "GODOSTROYER/parakh",
     "GODOSTROYER/sentinel-vad",
-    "GODOSTROYER/zenith",
-    "GODOSTROYER/qr-tree-studio"
+    "GODOSTROYER/qr-tree-studio",
+    "GODOSTROYER/sicklesense",
+    "GODOSTROYER/task-tracker",
+    "GODOSTROYER/zenith"
+  ],
+  "featured": [
+    {
+      "name": "Cadence",
+      "summary": "An evaluated AI support agent for @SpotifyCares: classifies a tweet, drafts a grounded reply of at most 280 characters and decides whether to escalate. 0.938 escalation recall on a frozen holdout.",
+      "live_url": "https://www.arnavbule.in/hiver-assignment",
+      "repo_url": "https://github.com/GODOSTROYER/cadence"
+    },
+    {
+      "name": "Parakh",
+      "summary": "A serverless AI exam checker. Upload a question paper and a handwritten answer sheet; every answer is located and highlighted on the page, graded, and given written feedback.",
+      "live_url": "https://www.arnavbule.in/parakh",
+      "repo_url": "https://github.com/GODOSTROYER/parakh"
+    },
+    {
+      "name": "Sentinel",
+      "summary": "Video anomaly detection that runs entirely on one 8 GB laptop GPU. Placed #1 on the AHC Visual Intelligence Hackathon live leaderboard with 67.8 points.",
+      "live_url": "https://huggingface.co/spaces/GODOSTROYER/sentinel",
+      "repo_url": "https://github.com/GODOSTROYER/sentinel-vad"
+    },
+    {
+      "name": "QR Studio",
+      "summary": "A WebGPU studio that grows any link into a 3D voxel tree whose canopy encodes a working QR code, captured off the GPU canvas as a PNG that phone cameras can scan.",
+      "live_url": "https://qr-studio.arnavbule.in",
+      "repo_url": "https://github.com/GODOSTROYER/qr-tree-studio"
+    },
+    {
+      "name": "Sicklesense",
+      "summary": "Detects sickle cells in blood smear images with a fine-tuned ResNet50, achieving >92% accuracy. Third place at the University of Miami Horizon AI Hackathon 2025.",
+      "live_url": "https://huggingface.co/spaces/GODOSTROYER/Sicklesense",
+      "repo_url": "https://github.com/GODOSTROYER/sicklesense"
+    },
+    {
+      "name": "Mini Task Tracker",
+      "summary": "A full-stack task tracker: email-OTP auth, JWT sessions, Redis-cached listings and a drag-and-drop Kanban board whose ordering is persisted in MongoDB.",
+      "live_url": null,
+      "repo_url": "https://github.com/GODOSTROYER/task-tracker"
+    },
+    {
+      "name": "Email Digital Twin",
+      "summary": "A Chrome extension and Node.js backend that learns a writing style from sent mail and drafts replies with Google Gemini and LanceDB retrieval.",
+      "live_url": null,
+      "repo_url": null,
+      "links_note": "Private repository"
+    }
   ],
   "projects": [
     {
       "title": "Sentinel",
       "repo": "sentinel-vad",
       "repo_url": "https://github.com/GODOSTROYER/sentinel-vad",
-      "demo_url": null,
+      "demo_url": "https://huggingface.co/spaces/GODOSTROYER/sentinel",
       "stack": [
         "Python",
         "PyTorch",
@@ -48,7 +102,7 @@
       "title": "QR Tree Studio",
       "repo": "qr-tree-studio",
       "repo_url": "https://github.com/GODOSTROYER/qr-tree-studio",
-      "demo_url": "https://qr-tree-studio.vercel.app",
+      "demo_url": "https://qr-studio.arnavbule.in",
       "stack": [
         "JavaScript",
         "React",
@@ -64,8 +118,57 @@
       "animation": "assets/projects/qr-seasons.gif"
     }
   ],
+  "skills": [
+    "Python",
+    "C++",
+    "React",
+    "Node.js",
+    "Tailwind CSS",
+    "MongoDB",
+    "MySQL",
+    "TensorFlow",
+    "OpenCV",
+    "NumPy",
+    "AWS",
+    "Google Cloud",
+    "Kubernetes",
+    "Docker",
+    "Linux",
+    "Flutter"
+  ],
+  "certifications": [
+    "Databricks Certified Data Engineer Professional",
+    "Databricks Certified Machine Learning Professional",
+    "Databricks Certified Generative AI Engineer Associate",
+    "Databricks Certified Data Analyst Associate",
+    "AWS Certified Solutions Architect – Associate",
+    "AWS Certified Machine Learning Engineer – Associate",
+    "Google Data Analytics Professional Certificate",
+    "Google Project Management Professional Certificate",
+    "Machine Learning Specialization — Coursera"
+  ],
+  "more": [
+    {
+      "label": "HSN Classifier",
+      "url": "https://github.com/GODOSTROYER/HSN-Classifier-LLM",
+      "note": "product classification with retrieval-augmented generation."
+    },
+    {
+      "label": "Zillow Medallion",
+      "url": "https://github.com/GODOSTROYER/zillow-medallion-databricks",
+      "note": "data engineering with Databricks."
+    },
+    {
+      "label": "Hybrid Search in PGVector",
+      "url": "https://github.com/GODOSTROYER/calquity-intern-task",
+      "note": "dense versus dense-plus-sparse retrieval, compared."
+    }
+  ],
   "links": {
     "github": "https://github.com/GODOSTROYER",
-    "portfolio": "https://arnavbule.in"
+    "portfolio": "https://www.arnavbule.in",
+    "resume": "https://www.arnavbule.in/resume",
+    "linkedin": "https://www.linkedin.com/in/arnavbule/",
+    "email": "arnav.bule05@gmail.com"
   }
 }
