@@ -4,14 +4,70 @@
   "updated_at": "2026-09-06T15:46:54Z",
   "repositories": [
     {
-      "full_name": "GODOSTROYER/cto.newtest",
-      "name": "cto.newtest",
-      "updated_at": "2026-09-16T16:58:43Z",
-      "pushed_at": "2026-09-16T16:58:40Z",
-      "html_url": "https://github.com/GODOSTROYER/cto.newtest",
-      "description": null,
-      "homepage": null,
+      "full_name": "GODOSTROYER/cadence",
+      "name": "cadence",
+      "updated_at": "2026-09-17T04:26:36Z",
+      "pushed_at": "2026-09-17T04:26:29Z",
+      "html_url": "https://github.com/GODOSTROYER/cadence",
+      "description": "Cadence — an evaluated AI support agent for @SpotifyCares (intent classification, grounded reply drafting, escalation) with a golden set, LLM-as-judge harness and dashboard. Hiver SDE Intern take-home.",
+      "homepage": "https://www.arnavbule.in/hiver-assignment",
       "language": "Python",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "archived": false,
+      "fork": false
+    },
+    {
+      "full_name": "GODOSTROYER/zenith",
+      "name": "zenith",
+      "updated_at": "2026-09-16T19:20:19Z",
+      "pushed_at": "2026-09-16T22:07:02Z",
+      "html_url": "https://github.com/GODOSTROYER/zenith",
+      "description": "Local-first deployment and operations platform: one typed manifest behind a system map, source view, REST API and agent, with priced plans, streaming deploys and Terraform export.",
+      "homepage": "https://orrery-three-kappa.vercel.app",
+      "language": "TypeScript",
+      "stargazers_count": 1,
+      "forks_count": 0,
+      "archived": false,
+      "fork": false
+    },
+    {
+      "full_name": "GODOSTROYER/Zenith-plugins",
+      "name": "Zenith-plugins",
+      "updated_at": "2026-09-16T18:53:51Z",
+      "pushed_at": "2026-09-16T22:12:31Z",
+      "html_url": "https://github.com/GODOSTROYER/Zenith-plugins",
+      "description": "MCP connector and generated Claude Code / Codex plugins for Zenith: scoped reads plus opt-in, browser-reviewed operations.",
+      "homepage": null,
+      "language": "JavaScript",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "archived": false,
+      "fork": false
+    },
+    {
+      "full_name": "GODOSTROYER/arnav-portfolio-2025",
+      "name": "arnav-portfolio-2025",
+      "updated_at": "2026-09-16T17:11:54Z",
+      "pushed_at": "2026-09-16T17:11:50Z",
+      "html_url": "https://github.com/GODOSTROYER/arnav-portfolio-2025",
+      "description": "Personal portfolio of Arnav Bule (Next.js 15 static export, Vercel) - live at www.arnavbule.in",
+      "homepage": "https://www.arnavbule.in",
+      "language": "JavaScript",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "archived": false,
+      "fork": false
+    },
+    {
+      "full_name": "GODOSTROYER/task-tracker",
+      "name": "task-tracker",
+      "updated_at": "2026-09-16T17:10:34Z",
+      "pushed_at": "2026-09-16T17:07:05Z",
+      "html_url": "https://github.com/GODOSTROYER/task-tracker",
+      "description": "Multi-user task tracker with email-OTP auth and a drag-and-drop Kanban board - Next.js, Express + TypeScript, Neon Postgres via Sequelize, deployed on Vercel",
+      "homepage": "",
+      "language": "TypeScript",
       "stargazers_count": 0,
       "forks_count": 0,
       "archived": false,
@@ -20,10 +76,24 @@
     {
       "full_name": "GODOSTROYER/GODOSTROYER",
       "name": "GODOSTROYER",
-      "updated_at": "2026-09-16T16:58:33Z",
-      "pushed_at": "2026-09-16T16:58:29Z",
+      "updated_at": "2026-09-16T16:58:58Z",
+      "pushed_at": "2026-09-16T16:58:53Z",
       "html_url": "https://github.com/GODOSTROYER/GODOSTROYER",
       "description": "Arnav Bule | Projects, experiments, and public work",
+      "homepage": null,
+      "language": "Python",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "archived": false,
+      "fork": false
+    },
+    {
+      "full_name": "GODOSTROYER/cto.newtest",
+      "name": "cto.newtest",
+      "updated_at": "2026-09-16T16:58:48Z",
+      "pushed_at": "2026-09-16T16:58:40Z",
+      "html_url": "https://github.com/GODOSTROYER/cto.newtest",
+      "description": "Volatility breakout strategy engine with per-VA risk management, a Bybit v5 testnet client and SQLite persistence",
       "homepage": null,
       "language": "Python",
       "stargazers_count": 0,
@@ -68,48 +138,6 @@
       "description": "Trishool Health AI - an Expo / React Native app for non-invasive anemia, diabetes and hypertension risk screening, backed by Convex.",
       "homepage": null,
       "language": "TypeScript",
-      "stargazers_count": 0,
-      "forks_count": 0,
-      "archived": false,
-      "fork": false
-    },
-    {
-      "full_name": "GODOSTROYER/Zenith-plugins",
-      "name": "Zenith-plugins",
-      "updated_at": "2026-09-16T16:56:25Z",
-      "pushed_at": "2026-09-16T16:55:52Z",
-      "html_url": "https://github.com/GODOSTROYER/Zenith-plugins",
-      "description": "MCP connector and generated Claude Code / Codex plugins for Zenith: scoped reads plus opt-in, browser-reviewed operations.",
-      "homepage": null,
-      "language": "JavaScript",
-      "stargazers_count": 0,
-      "forks_count": 0,
-      "archived": false,
-      "fork": false
-    },
-    {
-      "full_name": "GODOSTROYER/zenith",
-      "name": "zenith",
-      "updated_at": "2026-09-16T16:56:24Z",
-      "pushed_at": "2026-09-16T16:55:42Z",
-      "html_url": "https://github.com/GODOSTROYER/zenith",
-      "description": "Local-first deployment and operations platform: one typed manifest behind a system map, source view, REST API and agent, with priced plans, streaming deploys and Terraform export.",
-      "homepage": "https://orrery-three-kappa.vercel.app",
-      "language": "TypeScript",
-      "stargazers_count": 1,
-      "forks_count": 0,
-      "archived": false,
-      "fork": false
-    },
-    {
-      "full_name": "GODOSTROYER/arnav-portfolio-2025",
-      "name": "arnav-portfolio-2025",
-      "updated_at": "2026-09-16T16:55:50Z",
-      "pushed_at": "2026-09-16T16:55:46Z",
-      "html_url": "https://github.com/GODOSTROYER/arnav-portfolio-2025",
-      "description": "Personal portfolio of Arnav Bule (Next.js 15 static export, Vercel) - live at www.arnavbule.in",
-      "homepage": "https://www.arnavbule.in",
-      "language": "JavaScript",
       "stargazers_count": 0,
       "forks_count": 0,
       "archived": false,
@@ -256,20 +284,6 @@
       "fork": false
     },
     {
-      "full_name": "GODOSTROYER/cadence",
-      "name": "cadence",
-      "updated_at": "2026-09-16T16:49:00Z",
-      "pushed_at": "2026-09-16T16:47:58Z",
-      "html_url": "https://github.com/GODOSTROYER/cadence",
-      "description": "Cadence — an evaluated AI support agent for @SpotifyCares (intent classification, grounded reply drafting, escalation) with a golden set, LLM-as-judge harness and dashboard. Hiver SDE Intern take-home.",
-      "homepage": "https://www.arnavbule.in/hiver-assignment",
-      "language": "Python",
-      "stargazers_count": 0,
-      "forks_count": 0,
-      "archived": false,
-      "fork": false
-    },
-    {
       "full_name": "GODOSTROYER/qr-tree-studio",
       "name": "qr-tree-studio",
       "updated_at": "2026-09-16T16:48:43Z",
@@ -338,20 +352,6 @@
       "forks_count": 0,
       "archived": false,
       "fork": true
-    },
-    {
-      "full_name": "GODOSTROYER/task-tracker",
-      "name": "task-tracker",
-      "updated_at": "2026-04-29T22:20:16Z",
-      "pushed_at": "2026-04-29T22:20:12Z",
-      "html_url": "https://github.com/GODOSTROYER/task-tracker",
-      "description": "A full-stack task management app built with Next.js 15, Express, MongoDB, and Redis.",
-      "homepage": "https://wldd-task-tracker.vercel.app",
-      "language": "TypeScript",
-      "stargazers_count": 0,
-      "forks_count": 0,
-      "archived": false,
-      "fork": false
     },
     {
       "full_name": "GODOSTROYER/parrot-ai-frontend-qwen",
@@ -450,9 +450,9 @@
     }
   ],
   "contributions": {
-    "total": 697,
+    "total": 737,
     "from": "2025-09-14T00:00:00Z",
-    "to": "2026-09-16T23:59:59Z",
+    "to": "2026-09-17T23:59:59Z",
     "weeks": [
       {
         "days": [
@@ -2473,7 +2473,7 @@
           {
             "date": "2026-09-11",
             "count": 29,
-            "level": 2
+            "level": 1
           },
           {
             "date": "2026-09-12",
@@ -2496,13 +2496,18 @@
           },
           {
             "date": "2026-09-15",
-            "count": 115,
+            "count": 124,
             "level": 4
           },
           {
             "date": "2026-09-16",
-            "count": 101,
+            "count": 116,
             "level": 4
+          },
+          {
+            "date": "2026-09-17",
+            "count": 16,
+            "level": 1
           }
         ]
       }
