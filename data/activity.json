@@ -4,10 +4,38 @@
   "updated_at": "2026-09-06T15:46:54Z",
   "repositories": [
     {
+      "full_name": "GODOSTROYER/My-Portfolio-Website",
+      "name": "My-Portfolio-Website",
+      "updated_at": "2026-09-21T13:16:49Z",
+      "pushed_at": "2026-09-21T13:16:45Z",
+      "html_url": "https://github.com/GODOSTROYER/My-Portfolio-Website",
+      "description": "My first portfolio website (2023) :) - React, live at arnavbule.in/portfolio-2023",
+      "homepage": "https://www.arnavbule.in/portfolio-2023",
+      "language": "JavaScript",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "archived": false,
+      "fork": false
+    },
+    {
+      "full_name": "GODOSTROYER/arnav-portfolio-2025",
+      "name": "arnav-portfolio-2025",
+      "updated_at": "2026-09-21T13:09:12Z",
+      "pushed_at": "2026-09-21T13:09:08Z",
+      "html_url": "https://github.com/GODOSTROYER/arnav-portfolio-2025",
+      "description": "Personal portfolio of Arnav Bule (Next.js 15 static export, Vercel) - live at www.arnavbule.in",
+      "homepage": "https://www.arnavbule.in",
+      "language": "JavaScript",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "archived": false,
+      "fork": false
+    },
+    {
       "full_name": "GODOSTROYER/GODOSTROYER",
       "name": "GODOSTROYER",
-      "updated_at": "2026-09-20T08:40:54Z",
-      "pushed_at": "2026-09-20T08:40:51Z",
+      "updated_at": "2026-09-21T09:04:15Z",
+      "pushed_at": "2026-09-21T09:04:11Z",
       "html_url": "https://github.com/GODOSTROYER/GODOSTROYER",
       "description": "Arnav Bule | Projects, experiments, and public work",
       "homepage": null,
@@ -53,20 +81,6 @@
       "html_url": "https://github.com/GODOSTROYER/Zenith-plugins",
       "description": "MCP connector and generated Claude Code / Codex plugins for Zenith: scoped reads plus opt-in, browser-reviewed operations.",
       "homepage": null,
-      "language": "JavaScript",
-      "stargazers_count": 0,
-      "forks_count": 0,
-      "archived": false,
-      "fork": false
-    },
-    {
-      "full_name": "GODOSTROYER/arnav-portfolio-2025",
-      "name": "arnav-portfolio-2025",
-      "updated_at": "2026-09-16T17:11:54Z",
-      "pushed_at": "2026-09-16T17:11:50Z",
-      "html_url": "https://github.com/GODOSTROYER/arnav-portfolio-2025",
-      "description": "Personal portfolio of Arnav Bule (Next.js 15 static export, Vercel) - live at www.arnavbule.in",
-      "homepage": "https://www.arnavbule.in",
       "language": "JavaScript",
       "stargazers_count": 0,
       "forks_count": 0,
@@ -236,20 +250,6 @@
       "description": "A Simple Python based program using Selenium , Pandas that Scrapes the Results off the MIT Student's Portal. ",
       "homepage": null,
       "language": "Python",
-      "stargazers_count": 0,
-      "forks_count": 0,
-      "archived": false,
-      "fork": false
-    },
-    {
-      "full_name": "GODOSTROYER/My-Portfolio-Website",
-      "name": "My-Portfolio-Website",
-      "updated_at": "2026-09-16T16:49:43Z",
-      "pushed_at": "2026-09-16T16:49:35Z",
-      "html_url": "https://github.com/GODOSTROYER/My-Portfolio-Website",
-      "description": "My First Portfolio Website , Arnav.Fun :)",
-      "homepage": null,
-      "language": "JavaScript",
       "stargazers_count": 0,
       "forks_count": 0,
       "archived": false,
@@ -450,9 +450,9 @@
     }
   ],
   "contributions": {
-    "total": 746,
+    "total": 751,
     "from": "2025-09-21T00:00:00Z",
-    "to": "2026-09-21T23:59:59Z",
+    "to": "2026-09-22T23:59:59Z",
     "weeks": [
       {
         "days": [
@@ -2491,6 +2491,11 @@
           },
           {
             "date": "2026-09-21",
+            "count": 5,
+            "level": 1
+          },
+          {
+            "date": "2026-09-22",
             "count": 0,
             "level": 0
           }
