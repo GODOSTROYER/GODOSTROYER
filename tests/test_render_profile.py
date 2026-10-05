@@ -35,6 +35,20 @@ class RendererTests(unittest.TestCase):
         self.config = json.loads((ROOT / "profile.config.json").read_text(encoding="utf-8"))
         self.snapshot = updater.empty_snapshot(self.config["username"])
 
+    def test_gallery_escapes_text_and_rejects_missing_or_external_images(self):
+        shot = self.config["projects"][0]["gallery"][0]
+        shot["alt"] = '\"><script>bad</script>'
+        shot["caption"] = '<script>bad</script>'
+        markup = renderer.render_readme(self.config, self.snapshot)
+        self.assertIn('&lt;script&gt;bad&lt;/script&gt;', markup)
+        audit = MarkupAudit()
+        audit.feed(markup)
+        self.assertEqual(audit.unsafe, [])
+        for path in ('https://example.com/image.jpg', 'assets/projects/../image.jpg', 'assets/projects/missing.jpg'):
+            shot["image"] = path
+            with self.subTest(path=path), self.assertRaises(ValueError):
+                renderer.render_readme(self.config, self.snapshot)
+
     def test_work_map_counts_only_active_original_public_projects(self):
         username = self.config["username"]
         self.snapshot["repositories"] = [

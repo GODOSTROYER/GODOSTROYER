@@ -97,6 +97,16 @@ class ProfileUpdateTests(unittest.TestCase):
         public = {"draft": False, "name": None, "tag_name": "v1", "html_url": "https://github.com/user/project/releases/tag/v1", "published_at": "2026-09-01T00:00:00Z"}
         self.assertEqual(len(updater.releases([public, public | {"draft": True}], "user/project")), 1)
 
+    def test_compact_pull_request_event_uses_number_and_repository(self):
+        event = {"public": True, "actor": {"login": "user"}, "repo": {"name": "user/project"}, "type": "PullRequestEvent", "payload": {"action": "merged", "number": 6, "pull_request": {"number": 6, "url": "https://api.github.com/repos/user/project/pulls/6"}}, "created_at": "2026-10-01T00:00:00Z"}
+        result = updater.activity([event], "user")
+        self.assertEqual(result[0]["title"], "merged: pull request #6")
+        self.assertEqual(result[0]["url"], "https://github.com/user/project/pull/6")
+        for invalid in (True, 0, -1, "6", None):
+            event["payload"]["pull_request"]["number"] = invalid
+            with self.subTest(number=invalid), self.assertRaises(updater.DataError):
+                updater.activity([event], "user")
+
     def test_graphql_failure_keeps_calendar(self):
         self.previous["contributions"] = {"total": 5, "from": "2026-08-01", "to": "2026-08-01", "weeks": [{"days": [{"date": "2026-08-01", "count": 5, "level": 4}]}]}
         api = FakeAPI({"/graphql": {"errors": [{"message": "forbidden"}]}})

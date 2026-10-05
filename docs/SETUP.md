@@ -23,7 +23,7 @@ The local preview, research notes, caches, and discovery scratch data are exclud
 
 Edit `profile.config.json`, then run `python scripts/render_profile.py`. It controls identity, focus, the featured project table, project descriptions, project links, screenshot paths, tooling, certifications, and the closing list of other work. Write factual descriptions of what each project currently does, and confirm every live link still answers before publishing it. Replace screenshots with real product images and update their provenance in `assets/projects/SOURCES.md`.
 
-The three projects shown in detail are Sentinel, Zenith.ai and QR Tree Studio. QR Tree Studio uses the open-source magic-tree-qr renderer; its attribution remains in the profile. Zenith's cloud plan/export limitation is stated next to its demonstration.
+The three projects shown in detail are Zenith, Sentinel and QR Tree Studio. QR Tree Studio uses the open-source magic-tree-qr renderer; its attribution remains in the profile. Zenith's cloud plan/export limitation is stated next to its demonstration.
 
 ## Update the activity
 
@@ -41,3 +41,5 @@ On GitHub, the included Action refreshes public data daily, manually, and on rel
 The hero includes separately composed mobile artwork and light/dark versions. Reduced-motion preferences disable the traveling signal. Main text remains visible without animation; native HTML descriptions and links accompany project images. The type is converted from licensed Space Grotesk into vector outlines, so it renders without an external font service. Font license and original source are in `assets/fonts/`.
 
 The work diagram counts public, non-fork, non-archived repositories by their primary language, excluding this profile repository. It is not a skills score or contribution heatmap.
+
+Zenith opens the selected-work section. Add further real captures through its `gallery` entries (`image`, `alt`, `caption`); the generator presents these in an expandable interface tour. Keep screenshot source dates in `assets/projects/SOURCES.md`.

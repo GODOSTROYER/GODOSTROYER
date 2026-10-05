@@ -102,7 +102,7 @@ All artwork sizes are intrinsic SVG units, not guaranteed rendered CSS pixels. G
 
 The identity has desktop (1200 × 460) and mobile (640 × 720) canvases. Desktop places the name and console left and a tall branching trace right. Mobile puts the console above a compressed horizontal network. Console dimensions are 615 × 151 desktop and 560 × 185 mobile.
 
-README `<picture>` sources switch at a maximum viewport width of 600px and select dark assets through `prefers-color-scheme`; light is the fallback. Images carry a width of 1200 and scale within their host. The README remains a single column: introduction and links, a featured project table, three detailed project sections, tooling and certifications, public workbench updates, work map, disclosure, and contact links.
+README `<picture>` sources switch at a maximum viewport width of 600px and select dark assets through `prefers-color-scheme`; light is the fallback. Images carry a width of 1200 and scale within their host. The README remains a single column: introduction and links, three detailed project sections led by Zenith, a project directory, tooling and collapsible certifications, public workbench updates, work map, disclosure, and contact links.
 
 The work map uses up to four language groups with 12 nodes per row; its height grows with the data. Desktop groups run across a 1200-unit canvas; mobile uses two columns in 640 units. Nodes represent actual included repositories, not a decorative fixed count.
 
@@ -124,7 +124,7 @@ Artwork containers have gently rounded corners; consoles are slightly tighter. A
 
 **Featured projects.** One table indexes the current work: the project, one factual line about what it does, and the links that actually exist. A project without a public repository says so instead of linking. Live links are checked before they are published.
 
-**A closer look.** Sentinel, Zenith.ai, and QR Tree Studio each have a native heading, linked real image, concise description, inline-code stack labels, and explicit source/demo/release links where available. QR Tree Studio uses a captured seasons GIF with a static image selected for reduced motion. Keep attribution and limitations adjacent to the relevant project. Link arrows stay attached with a nonbreaking space.
+**Selected work.** Zenith, Sentinel, and QR Tree Studio each have a native heading, linked real image, concise description, inline-code stack labels, and explicit source/demo/release links where available. QR Tree Studio uses a captured seasons GIF with a static image selected for reduced motion. Keep attribution and limitations adjacent to the relevant project. Link arrows stay attached with a nonbreaking space.
 
 **Work map.** One node equals one public non-fork, non-archived repository, excluding the profile repository. The image alt text includes actual grouped counts from the same distribution function as the drawing. The graph describes distribution, not proficiency.
 
@@ -140,3 +140,5 @@ Artwork containers have gently rounded corners; consoles are slightly tighter. A
 - **Don't** introduce arbitrary JavaScript into the README or external font/image services into the identity.
 - **Don't** convert repository counts into skill scores or decorate the profile with unsupported claims.
 - **Don't** list a tool, certificate, or metric that the portfolio and public repositories do not already state.
+
+Zenith leads with its current public landing page and a native expandable gallery of the System and Growth sections. Captures are dated in the provenance file; synthetic examples and roadmap boundaries stay explicit.

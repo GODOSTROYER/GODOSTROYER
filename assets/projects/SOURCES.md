@@ -11,3 +11,11 @@ These are existing repository visuals. Neither image was generated for the profi
 - qr-seasons.gif: four real browser screenshots of that same app, selecting Spring, Summer, Autumn, and Winter. Captured on 6 September 2026, then encoded as a 960-pixel GIF with two seconds per season using FFmpeg. No interface or scene content was invented. Static summer screenshot is the reduced-motion fallback. The app uses xscanzm/magic-tree-qr; the profile retains attribution.
 
 The source Sentinel file has a .png URL but JPEG contents; the local extension reflects its actual encoding. Metadata records provenance; screenshot pixels are unchanged.
+
+## Current Zenith interface — 5 October 2026
+
+- `zenith-landing.jpg`: current public landing hero.
+- `zenith-system.jpg`: System section, topology and shared planning workflow.
+- `zenith-planning.jpg`: Growth section, cost preview, shared model and Terraform export.
+
+All three are unaltered 1280 × 720 browser screenshots of https://orrery-three-kappa.vercel.app/, captured on 5 October 2026. Visible infrastructure and prices are the public site’s synthetic examples. These replace the older `zenith.png` in the profile; they do not depict the authenticated workspace. The older source asset is retained for provenance.

@@ -136,8 +136,16 @@ def activity(raw, username):
             title = "Pushed to " + repo.split("/", 1)[1]
         elif kind in ("PullRequestEvent", "IssuesEvent"):
             item = payload.get("pull_request" if kind == "PullRequestEvent" else "issue", {})
-            title = text(payload.get("action")) + ": " + text(item.get("title"))
-            url = github_url(item.get("html_url"))
+            # Public PR events may contain only the number and API URL.
+            number_value = item.get("number", payload.get("number"))
+            if kind == "PullRequestEvent" and (item.get("title") is None or item.get("html_url") is None):
+                if type(number_value) is not int or number_value <= 0:
+                    raise DataError("Invalid pull request number")
+                title = text(payload.get("action")) + f": pull request #{number_value}"
+                url = f"https://github.com/{repo}/pull/{number_value}"
+            else:
+                title = text(payload.get("action")) + ": " + text(item.get("title"))
+                url = github_url(item.get("html_url"))
         elif kind == "ReleaseEvent":
             item = payload.get("release", {})
             if item.get("draft") is not False:
