@@ -118,15 +118,13 @@ I build practical AI systems and interactive web experiences. Local models, visu
 
 <ul>
 
-<li><a href="https://github.com/makeplane/plane/pull/9947">plane — opened: pull request #9947</a> <sub>(05 Oct 2026)</sub></li>
+<li><a href="https://github.com/GODOSTROYER/plane/pull/3">plane — opened: pull request #3</a> <sub>(06 Oct 2026)</sub></li>
 
-<li><a href="https://github.com/GODOSTROYER/zenith">zenith — Pushed to zenith</a> <sub>(05 Oct 2026)</sub></li>
-
-<li><a href="https://github.com/HackIndiaXYZ/pixels-to-products-cloudinary-ai-hackathon-2026-snap2shelf">pixels-to-products-cloudinary-ai-hackathon-2026-snap2shelf — Pushed to pixels-to-products-cloudinary-ai-hackathon-2026-snap2shelf</a> <sub>(03 Oct 2026)</sub></li>
+<li><a href="https://github.com/makeplane/plane/pull/9952">plane — opened: pull request #9952</a> <sub>(06 Oct 2026)</sub></li>
 
 </ul>
 
-<p><sub>Last refreshed 05 Oct 2026 · from public GitHub activity.</sub></p>
+<p><sub>Last refreshed 06 Oct 2026 · from public GitHub activity.</sub></p>
 
 <picture>
   <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/generated/work-map-mobile-dark.svg">
