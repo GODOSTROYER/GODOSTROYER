@@ -118,17 +118,21 @@ I build practical AI systems and interactive web experiences. Local models, visu
 
 <ul>
 
-<li><a href="https://github.com/ayushcody/auralis/pull/3">auralis — merged: pull request #3</a> <sub>(13 Oct 2026)</sub></li>
+<li><a href="https://github.com/GODOSTROYER/GenerativeAI4Finance">GenerativeAI4Finance — Pushed to GenerativeAI4Finance</a> <sub>(15 Oct 2026)</sub></li>
+
+<li><a href="https://github.com/GODOSTROYER/wapsi">wapsi — Pushed to wapsi</a> <sub>(14 Oct 2026)</sub></li>
+
+<li><a href="https://github.com/GenerativeAI4Finance/GenerativeAI4Finance/pull/20">GenerativeAI4Finance — opened: pull request #20</a> <sub>(14 Oct 2026)</sub></li>
 
 </ul>
 
-<p><sub>Last refreshed 14 Oct 2026 · from public GitHub activity.</sub></p>
+<p><sub>Last refreshed 15 Oct 2026 · from public GitHub activity.</sub></p>
 
 <picture>
   <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/generated/work-map-mobile-dark.svg">
   <source media="(max-width: 600px)" srcset="assets/generated/work-map-mobile-light.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/generated/work-map-dark.svg">
-  <img src="assets/generated/work-map-light.svg" width="1200" alt="24 public repositories by primary language: TypeScript: 7, Python: 7, JavaScript: 5, Other languages: 5. One node per repository. Forks, archives, and this profile repository excluded. Repository distribution, not proficiency.">
+  <img src="assets/generated/work-map-light.svg" width="1200" alt="25 public repositories by primary language: Python: 8, TypeScript: 7, JavaScript: 5, Other languages: 5. One node per repository. Forks, archives, and this profile repository excluded. Repository distribution, not proficiency.">
 </picture>
 
 <details>
