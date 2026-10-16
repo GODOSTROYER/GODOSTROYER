@@ -120,13 +120,11 @@ I build practical AI systems and interactive web experiences. Local models, visu
 
 <li><a href="https://github.com/GODOSTROYER/GenerativeAI4Finance">GenerativeAI4Finance — Pushed to GenerativeAI4Finance</a> <sub>(15 Oct 2026)</sub></li>
 
-<li><a href="https://github.com/GODOSTROYER/wapsi">wapsi — Pushed to wapsi</a> <sub>(14 Oct 2026)</sub></li>
-
 <li><a href="https://github.com/GenerativeAI4Finance/GenerativeAI4Finance/pull/20">GenerativeAI4Finance — opened: pull request #20</a> <sub>(14 Oct 2026)</sub></li>
 
 </ul>
 
-<p><sub>Last refreshed 15 Oct 2026 · from public GitHub activity.</sub></p>
+<p><sub>Last refreshed 16 Oct 2026 · from public GitHub activity.</sub></p>
 
 <picture>
   <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/generated/work-map-mobile-dark.svg">
