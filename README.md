@@ -118,19 +118,19 @@ I build practical AI systems and interactive web experiences. Local models, visu
 
 <ul>
 
-<li><a href="https://github.com/GODOSTROYER/GenerativeAI4Finance">GenerativeAI4Finance — Pushed to GenerativeAI4Finance</a> <sub>(15 Oct 2026)</sub></li>
+<li><a href="https://github.com/GODOSTROYER/asset-intelligence-copilot/releases/tag/v1.0-submission">asset-intelligence-copilot — Released v1.0-submission</a> <sub>(17 Oct 2026)</sub></li>
 
-<li><a href="https://github.com/GenerativeAI4Finance/GenerativeAI4Finance/pull/20">GenerativeAI4Finance — opened: pull request #20</a> <sub>(14 Oct 2026)</sub></li>
+<li><a href="https://github.com/GODOSTROYER/VeerIQ/pull/14">VeerIQ — merged: pull request #14</a> <sub>(17 Oct 2026)</sub></li>
 
 </ul>
 
-<p><sub>Last refreshed 17 Oct 2026 · from public GitHub activity.</sub></p>
+<p><sub>Last refreshed 18 Oct 2026 · from public GitHub activity.</sub></p>
 
 <picture>
   <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/generated/work-map-mobile-dark.svg">
   <source media="(max-width: 600px)" srcset="assets/generated/work-map-mobile-light.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/generated/work-map-dark.svg">
-  <img src="assets/generated/work-map-light.svg" width="1200" alt="25 public repositories by primary language: Python: 8, TypeScript: 7, JavaScript: 5, Other languages: 5. One node per repository. Forks, archives, and this profile repository excluded. Repository distribution, not proficiency.">
+  <img src="assets/generated/work-map-light.svg" width="1200" alt="28 public repositories by primary language: Python: 9, TypeScript: 8, JavaScript: 5, Other languages: 6. One node per repository. Forks, archives, and this profile repository excluded. Repository distribution, not proficiency.">
 </picture>
 
 <details>

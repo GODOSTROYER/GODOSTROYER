@@ -1,13 +1,13 @@
 {
   "schema_version": 1,
   "username": "GODOSTROYER",
-  "updated_at": "2026-10-17T07:53:20Z",
+  "updated_at": "2026-10-18T08:08:15Z",
   "repositories": [
     {
       "full_name": "GODOSTROYER/wapsi",
       "name": "wapsi",
-      "updated_at": "2026-10-17T00:14:31Z",
-      "pushed_at": "2026-10-17T00:14:27Z",
+      "updated_at": "2026-10-18T00:15:56Z",
+      "pushed_at": "2026-10-18T00:15:52Z",
       "html_url": "https://github.com/GODOSTROYER/wapsi",
       "description": "Wapsi: hold the tainted amount, not the whole account. Cyber-fraud money-trail and victim-restoration copilot for bank nodal officers, on AMD Instinct MI300X (ROCm, vLLM, Gemma 4, Google ADK).",
       "homepage": null,
@@ -18,10 +18,66 @@
       "fork": false
     },
     {
+      "full_name": "GODOSTROYER/parakh",
+      "name": "parakh",
+      "updated_at": "2026-10-17T23:00:15Z",
+      "pushed_at": "2026-10-17T23:00:12Z",
+      "html_url": "https://github.com/GODOSTROYER/parakh",
+      "description": "Parakh - serverless exam checker: upload a question paper and a handwritten answer sheet; every answer found, highlighted and graded (Next.js + Gemini).",
+      "homepage": "https://www.arnavbule.in/parakh",
+      "language": "JavaScript",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "archived": false,
+      "fork": false
+    },
+    {
+      "full_name": "GODOSTROYER/asset-intelligence-copilot",
+      "name": "asset-intelligence-copilot",
+      "updated_at": "2026-10-17T22:19:48Z",
+      "pushed_at": "2026-10-17T22:20:13Z",
+      "html_url": "https://github.com/GODOSTROYER/asset-intelligence-copilot",
+      "description": "Agentic oil-field copilot: the model plans, code calculates. Typed tools, document-driven rules, cited answers, shared and private memory. FlytBase AHC SWE Hackathon.",
+      "homepage": null,
+      "language": "HTML",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "archived": false,
+      "fork": false
+    },
+    {
+      "full_name": "GODOSTROYER/VeerIQ",
+      "name": "VeerIQ",
+      "updated_at": "2026-10-17T18:23:35Z",
+      "pushed_at": "2026-10-17T18:23:32Z",
+      "html_url": "https://github.com/GODOSTROYER/VeerIQ",
+      "description": "Restore yesterday's data. Keep today's decisions. A recovery agent with ArmorIQ enforcement, built for ArmorIQ Flow State.",
+      "homepage": "https://veeriq.arnavbule.in",
+      "language": "Python",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "archived": false,
+      "fork": false
+    },
+    {
+      "full_name": "GODOSTROYER/flytbase-asset-intelligence-copilot",
+      "name": "flytbase-asset-intelligence-copilot",
+      "updated_at": "2026-10-17T08:58:50Z",
+      "pushed_at": "2026-10-17T08:58:47Z",
+      "html_url": "https://github.com/GODOSTROYER/flytbase-asset-intelligence-copilot",
+      "description": "Evidence-grounded asset operations copilot for the FlytBase hackathon. Preliminary sample-data implementation.",
+      "homepage": null,
+      "language": "TypeScript",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "archived": false,
+      "fork": false
+    },
+    {
       "full_name": "GODOSTROYER/GODOSTROYER",
       "name": "GODOSTROYER",
-      "updated_at": "2026-10-16T08:17:25Z",
-      "pushed_at": "2026-10-16T08:17:21Z",
+      "updated_at": "2026-10-17T07:53:25Z",
+      "pushed_at": "2026-10-17T07:53:22Z",
       "html_url": "https://github.com/GODOSTROYER/GODOSTROYER",
       "description": "Arnav Bule | Projects, experiments, and public work",
       "homepage": null,
@@ -315,7 +371,7 @@
       "full_name": "GODOSTROYER/vedaai-answer-mapping",
       "name": "vedaai-answer-mapping",
       "updated_at": "2026-09-16T16:52:59Z",
-      "pushed_at": "2026-09-16T16:52:38Z",
+      "pushed_at": "2026-10-17T22:57:17Z",
       "html_url": "https://github.com/GODOSTROYER/vedaai-answer-mapping",
       "description": "VedaAI - extracts every exam question, maps a student's handwritten answers to them with exact ink-region highlights, and grades. DeepSeek-OCR-2 on a local GPU + GPT-5.6 Luna via the Codex CLI. Superseded by Parakh.",
       "homepage": null,
@@ -348,20 +404,6 @@
       "description": "A Simple Python based program using Selenium , Pandas that Scrapes the Results off the MIT Student's Portal. ",
       "homepage": null,
       "language": "Python",
-      "stargazers_count": 0,
-      "forks_count": 0,
-      "archived": false,
-      "fork": false
-    },
-    {
-      "full_name": "GODOSTROYER/parakh",
-      "name": "parakh",
-      "updated_at": "2026-09-16T16:49:07Z",
-      "pushed_at": "2026-09-16T16:48:44Z",
-      "html_url": "https://github.com/GODOSTROYER/parakh",
-      "description": "Parakh - serverless exam checker: upload a question paper and a handwritten answer sheet; every answer found, highlighted and graded (Next.js + Gemini).",
-      "homepage": "https://www.arnavbule.in/parakh",
-      "language": "JavaScript",
       "stargazers_count": 0,
       "forks_count": 0,
       "archived": false,
@@ -491,92 +533,53 @@
   ],
   "activity": [
     {
-      "type": "PushEvent",
-      "repo": "GODOSTROYER/GenerativeAI4Finance",
-      "title": "Pushed to GenerativeAI4Finance",
-      "url": "https://github.com/GODOSTROYER/GenerativeAI4Finance",
-      "date": "2026-10-15T15:13:54Z"
+      "type": "ReleaseEvent",
+      "repo": "GODOSTROYER/asset-intelligence-copilot",
+      "title": "Released v1.0-submission",
+      "url": "https://github.com/GODOSTROYER/asset-intelligence-copilot/releases/tag/v1.0-submission",
+      "date": "2026-10-17T22:20:13Z"
     },
     {
       "type": "PullRequestEvent",
-      "repo": "GenerativeAI4Finance/GenerativeAI4Finance",
-      "title": "opened: pull request #20",
-      "url": "https://github.com/GenerativeAI4Finance/GenerativeAI4Finance/pull/20",
-      "date": "2026-10-14T16:39:12Z"
+      "repo": "GODOSTROYER/VeerIQ",
+      "title": "merged: pull request #14",
+      "url": "https://github.com/GODOSTROYER/VeerIQ/pull/14",
+      "date": "2026-10-17T18:23:30Z"
     },
     {
       "type": "PullRequestEvent",
-      "repo": "GenerativeAI4Finance/GenerativeAI4Finance",
-      "title": "opened: pull request #19",
-      "url": "https://github.com/GenerativeAI4Finance/GenerativeAI4Finance/pull/19",
-      "date": "2026-10-14T16:38:52Z"
+      "repo": "GODOSTROYER/VeerIQ",
+      "title": "opened: pull request #14",
+      "url": "https://github.com/GODOSTROYER/VeerIQ/pull/14",
+      "date": "2026-10-17T18:19:58Z"
     },
     {
       "type": "PullRequestEvent",
-      "repo": "GenerativeAI4Finance/GenerativeAI4Finance",
-      "title": "opened: pull request #18",
-      "url": "https://github.com/GenerativeAI4Finance/GenerativeAI4Finance/pull/18",
-      "date": "2026-10-14T16:38:39Z"
+      "repo": "GODOSTROYER/VeerIQ",
+      "title": "merged: pull request #13",
+      "url": "https://github.com/GODOSTROYER/VeerIQ/pull/13",
+      "date": "2026-10-17T18:16:06Z"
     },
     {
       "type": "PullRequestEvent",
-      "repo": "GenerativeAI4Finance/GenerativeAI4Finance",
-      "title": "opened: pull request #17",
-      "url": "https://github.com/GenerativeAI4Finance/GenerativeAI4Finance/pull/17",
-      "date": "2026-10-14T16:38:30Z"
+      "repo": "GODOSTROYER/VeerIQ",
+      "title": "opened: pull request #13",
+      "url": "https://github.com/GODOSTROYER/VeerIQ/pull/13",
+      "date": "2026-10-17T18:11:30Z"
     },
     {
       "type": "PullRequestEvent",
-      "repo": "GenerativeAI4Finance/GenerativeAI4Finance",
-      "title": "opened: pull request #16",
-      "url": "https://github.com/GenerativeAI4Finance/GenerativeAI4Finance/pull/16",
-      "date": "2026-10-14T16:38:16Z"
+      "repo": "GODOSTROYER/VeerIQ",
+      "title": "merged: pull request #12",
+      "url": "https://github.com/GODOSTROYER/VeerIQ/pull/12",
+      "date": "2026-10-17T17:58:16Z"
     }
   ],
   "contributions": {
-    "total": 1187,
+    "total": 1239,
     "from": "2025-10-12T00:00:00Z",
-    "to": "2026-10-17T23:59:59Z",
+    "to": "2026-10-18T23:59:59Z",
     "weeks": [
-      {
-        "days": [
-          {
-            "date": "2025-10-12",
-            "count": 0,
-            "level": 0
-          },
-          {
-            "date": "2025-10-13",
-            "count": 0,
-            "level": 0
-          },
-          {
-            "date": "2025-10-14",
-            "count": 0,
-            "level": 0
-          },
-          {
-            "date": "2025-10-15",
-            "count": 0,
-            "level": 0
-          },
-          {
-            "date": "2025-10-16",
-            "count": 0,
-            "level": 0
-          },
-          {
-            "date": "2025-10-17",
-            "count": 2,
-            "level": 1
-          },
-          {
-            "date": "2025-10-18",
-            "count": 0,
-            "level": 0
-          }
-        ]
-      },
       {
         "days": [
           {
@@ -2585,13 +2588,13 @@
           },
           {
             "date": "2026-10-14",
-            "count": 29,
+            "count": 30,
             "level": 1
           },
           {
             "date": "2026-10-15",
-            "count": 0,
-            "level": 0
+            "count": 6,
+            "level": 1
           },
           {
             "date": "2026-10-16",
@@ -2600,7 +2603,16 @@
           },
           {
             "date": "2026-10-17",
-            "count": 8,
+            "count": 48,
+            "level": 1
+          }
+        ]
+      },
+      {
+        "days": [
+          {
+            "date": "2026-10-18",
+            "count": 5,
             "level": 1
           }
         ]
