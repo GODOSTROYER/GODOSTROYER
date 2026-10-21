@@ -118,15 +118,15 @@ I build practical AI systems and interactive web experiences. Local models, visu
 
 <ul>
 
+<li><a href="https://github.com/GenerativeAI4Finance/GenerativeAI4Finance/pull/17">GenerativeAI4Finance — merged: pull request #17</a> <sub>(20 Oct 2026)</sub></li>
+
 <li><a href="https://github.com/GODOSTROYER/cities2-agent-bridge">cities2-agent-bridge — Pushed to cities2-agent-bridge</a> <sub>(18 Oct 2026)</sub></li>
 
 <li><a href="https://github.com/GODOSTROYER/parakh">parakh — Pushed to parakh</a> <sub>(17 Oct 2026)</sub></li>
 
-<li><a href="https://github.com/GODOSTROYER/asset-intelligence-copilot/releases/tag/v1.0-submission">asset-intelligence-copilot — Released v1.0-submission</a> <sub>(17 Oct 2026)</sub></li>
-
 </ul>
 
-<p><sub>Last refreshed 20 Oct 2026 · from public GitHub activity.</sub></p>
+<p><sub>Last refreshed 21 Oct 2026 · from public GitHub activity.</sub></p>
 
 <picture>
   <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/generated/work-map-mobile-dark.svg">
