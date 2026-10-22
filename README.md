@@ -126,7 +126,7 @@ I build practical AI systems and interactive web experiences. Local models, visu
 
 </ul>
 
-<p><sub>Last refreshed 21 Oct 2026 · from public GitHub activity.</sub></p>
+<p><sub>Last refreshed 22 Oct 2026 · from public GitHub activity.</sub></p>
 
 <picture>
   <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/generated/work-map-mobile-dark.svg">
