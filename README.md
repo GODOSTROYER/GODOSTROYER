@@ -118,21 +118,21 @@ I build practical AI systems and interactive web experiences. Local models, visu
 
 <ul>
 
+<li><a href="https://github.com/GODOSTROYER/signalloop/pull/2">signalloop — merged: pull request #2</a> <sub>(31 Oct 2026)</sub></li>
+
 <li><a href="https://github.com/GenerativeAI4Finance/GenerativeAI4Finance/pull/17">GenerativeAI4Finance — merged: pull request #17</a> <sub>(20 Oct 2026)</sub></li>
 
 <li><a href="https://github.com/GODOSTROYER/cities2-agent-bridge">cities2-agent-bridge — Pushed to cities2-agent-bridge</a> <sub>(18 Oct 2026)</sub></li>
 
-<li><a href="https://github.com/GODOSTROYER/parakh">parakh — Pushed to parakh</a> <sub>(17 Oct 2026)</sub></li>
-
 </ul>
 
-<p><sub>Last refreshed 31 Oct 2026 · from public GitHub activity.</sub></p>
+<p><sub>Last refreshed 01 Nov 2026 · from public GitHub activity.</sub></p>
 
 <picture>
   <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/generated/work-map-mobile-dark.svg">
   <source media="(max-width: 600px)" srcset="assets/generated/work-map-mobile-light.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/generated/work-map-dark.svg">
-  <img src="assets/generated/work-map-light.svg" width="1200" alt="28 public repositories by primary language: Python: 9, TypeScript: 8, JavaScript: 5, Other languages: 6. One node per repository. Forks, archives, and this profile repository excluded. Repository distribution, not proficiency.">
+  <img src="assets/generated/work-map-light.svg" width="1200" alt="29 public repositories by primary language: Python: 9, TypeScript: 8, JavaScript: 6, Other languages: 6. One node per repository. Forks, archives, and this profile repository excluded. Repository distribution, not proficiency.">
 </picture>
 
 <details>
