@@ -122,11 +122,9 @@ I build practical AI systems and interactive web experiences. Local models, visu
 
 <li><a href="https://github.com/GenerativeAI4Finance/GenerativeAI4Finance/pull/17">GenerativeAI4Finance — merged: pull request #17</a> <sub>(20 Oct 2026)</sub></li>
 
-<li><a href="https://github.com/GODOSTROYER/cities2-agent-bridge">cities2-agent-bridge — Pushed to cities2-agent-bridge</a> <sub>(18 Oct 2026)</sub></li>
-
 </ul>
 
-<p><sub>Last refreshed 01 Nov 2026 · from public GitHub activity.</sub></p>
+<p><sub>Last refreshed 02 Nov 2026 · from public GitHub activity.</sub></p>
 
 <picture>
   <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/generated/work-map-mobile-dark.svg">
