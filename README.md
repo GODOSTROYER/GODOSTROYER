@@ -124,13 +124,13 @@ I build practical AI systems and interactive web experiences. Local models, visu
 
 </ul>
 
-<p><sub>Last refreshed 13 Nov 2026 · from public GitHub activity.</sub></p>
+<p><sub>Last refreshed 14 Nov 2026 · from public GitHub activity.</sub></p>
 
 <picture>
   <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/generated/work-map-mobile-dark.svg">
   <source media="(max-width: 600px)" srcset="assets/generated/work-map-mobile-light.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/generated/work-map-dark.svg">
-  <img src="assets/generated/work-map-light.svg" width="1200" alt="30 public repositories by primary language: TypeScript: 9, Python: 9, JavaScript: 6, Other languages: 6. One node per repository. Forks, archives, and this profile repository excluded. Repository distribution, not proficiency.">
+  <img src="assets/generated/work-map-light.svg" width="1200" alt="31 public repositories by primary language: TypeScript: 9, Python: 9, JavaScript: 7, Other languages: 6. One node per repository. Forks, archives, and this profile repository excluded. Repository distribution, not proficiency.">
 </picture>
 
 <details>
