@@ -118,13 +118,15 @@ I build practical AI systems and interactive web experiences. Local models, visu
 
 <ul>
 
-<li><a href="https://github.com/GODOSTROYER/signalloop/pull/2">signalloop — merged: pull request #2</a> <sub>(31 Oct 2026)</sub></li>
+<li><a href="https://github.com/GODOSTROYER/zenith">zenith — Pushed to zenith</a> <sub>(15 Nov 2026)</sub></li>
 
-<li><a href="https://github.com/GenerativeAI4Finance/GenerativeAI4Finance/pull/17">GenerativeAI4Finance — merged: pull request #17</a> <sub>(20 Oct 2026)</sub></li>
+<li><a href="https://github.com/GODOSTROYER/renewal-compass">renewal-compass — Pushed to renewal-compass</a> <sub>(14 Nov 2026)</sub></li>
+
+<li><a href="https://github.com/GODOSTROYER/fair-split">fair-split — Pushed to fair-split</a> <sub>(12 Nov 2026)</sub></li>
 
 </ul>
 
-<p><sub>Last refreshed 14 Nov 2026 · from public GitHub activity.</sub></p>
+<p><sub>Last refreshed 15 Nov 2026 · from public GitHub activity.</sub></p>
 
 <picture>
   <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/generated/work-map-mobile-dark.svg">
