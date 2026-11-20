@@ -118,15 +118,15 @@ I build practical AI systems and interactive web experiences. Local models, visu
 
 <ul>
 
-<li><a href="https://github.com/GODOSTROYER/BolRelay/pull/2">BolRelay — opened: pull request #2</a> <sub>(18 Nov 2026)</sub></li>
+<li><a href="https://github.com/GODOSTROYER/BolRelay">BolRelay — Pushed to BolRelay</a> <sub>(18 Nov 2026)</sub></li>
 
-<li><a href="https://github.com/GODOSTROYER/zenith/pull/60">zenith — opened: pull request #60</a> <sub>(18 Nov 2026)</sub></li>
+<li><a href="https://github.com/GODOSTROYER/zenith">zenith — Pushed to zenith</a> <sub>(18 Nov 2026)</sub></li>
 
 <li><a href="https://github.com/saivedant169/proofflow/pull/4">proofflow — merged: pull request #4</a> <sub>(16 Nov 2026)</sub></li>
 
 </ul>
 
-<p><sub>Last refreshed 19 Nov 2026 · from public GitHub activity.</sub></p>
+<p><sub>Last refreshed 20 Nov 2026 · from public GitHub activity.</sub></p>
 
 <picture>
   <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/generated/work-map-mobile-dark.svg">
