@@ -120,9 +120,9 @@ I build practical AI systems and interactive web experiences. Local models, visu
 
 <li><a href="https://github.com/GODOSTROYER/BolRelay">BolRelay — Pushed to BolRelay</a> <sub>(19 Nov 2026)</sub></li>
 
-<li><a href="https://github.com/GODOSTROYER/zenith">zenith — Pushed to zenith</a> <sub>(18 Nov 2026)</sub></li>
-
 <li><a href="https://github.com/saivedant169/proofflow/pull/4">proofflow — merged: pull request #4</a> <sub>(16 Nov 2026)</sub></li>
+
+<li><a href="https://github.com/GODOSTROYER/renewal-compass">renewal-compass — Pushed to renewal-compass</a> <sub>(14 Nov 2026)</sub></li>
 
 </ul>
 
@@ -132,7 +132,7 @@ I build practical AI systems and interactive web experiences. Local models, visu
   <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/generated/work-map-mobile-dark.svg">
   <source media="(max-width: 600px)" srcset="assets/generated/work-map-mobile-light.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/generated/work-map-dark.svg">
-  <img src="assets/generated/work-map-light.svg" width="1200" alt="32 public repositories by primary language: TypeScript: 10, Python: 9, JavaScript: 7, Other languages: 6. One node per repository. Forks, archives, and this profile repository excluded. Repository distribution, not proficiency.">
+  <img src="assets/generated/work-map-light.svg" width="1200" alt="31 public repositories by primary language: TypeScript: 9, Python: 9, JavaScript: 7, Other languages: 6. One node per repository. Forks, archives, and this profile repository excluded. Repository distribution, not proficiency.">
 </picture>
 
 <details>
