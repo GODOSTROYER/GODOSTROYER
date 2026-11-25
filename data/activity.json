@@ -4,6 +4,20 @@
   "updated_at": "2026-11-23T13:04:26Z",
   "repositories": [
     {
+      "full_name": "GODOSTROYER/AnyPS5",
+      "name": "AnyPS5",
+      "updated_at": "2026-11-25T12:38:47Z",
+      "pushed_at": "2026-11-25T12:05:11Z",
+      "html_url": "https://github.com/GODOSTROYER/AnyPS5",
+      "description": "Tool for automatic PS5 executables porting to Linux and Windows",
+      "homepage": "https://boykopovar.github.io/AnyPS5/",
+      "language": null,
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "archived": false,
+      "fork": true
+    },
+    {
       "full_name": "GODOSTROYER/BolRelay",
       "name": "BolRelay",
       "updated_at": "2026-11-18T13:58:40Z",
@@ -49,7 +63,7 @@
       "full_name": "GODOSTROYER/GODOSTROYER",
       "name": "GODOSTROYER",
       "updated_at": "2026-11-12T12:26:49Z",
-      "pushed_at": "2026-11-23T13:04:28Z",
+      "pushed_at": "2026-11-24T13:53:22Z",
       "html_url": "https://github.com/GODOSTROYER/GODOSTROYER",
       "description": "Arnav Bule | Projects, experiments, and public work",
       "homepage": null,
@@ -632,9 +646,9 @@
     }
   ],
   "contributions": {
-    "total": 1748,
+    "total": 1749,
     "from": "2025-11-23T00:00:00Z",
-    "to": "2026-11-24T23:59:59Z",
+    "to": "2026-11-25T23:59:59Z",
     "weeks": [
       {
         "days": [
@@ -2680,6 +2694,11 @@
             "date": "2026-11-24",
             "count": 0,
             "level": 0
+          },
+          {
+            "date": "2026-11-25",
+            "count": 1,
+            "level": 1
           }
         ]
       }
