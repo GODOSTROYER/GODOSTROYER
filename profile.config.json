@@ -8,22 +8,19 @@
   ],
   "tagline": "Ideas into systems. Systems into something useful.",
   "focus": "Local AI / full-stack tools / creative interfaces",
+  "hidden_repos": [
+    "GODOSTROYER/zenith",
+    "GODOSTROYER/Zenith-plugins"
+  ],
   "featured_repos": [
     "GODOSTROYER/cadence",
     "GODOSTROYER/parakh",
     "GODOSTROYER/sentinel-vad",
     "GODOSTROYER/qr-tree-studio",
     "GODOSTROYER/sicklesense",
-    "GODOSTROYER/task-tracker",
-    "GODOSTROYER/zenith"
+    "GODOSTROYER/task-tracker"
   ],
   "featured": [
-    {
-      "name": "Zenith",
-      "summary": "Visual infrastructure, reviewed changes and portable Terraform. A shared system model for people and agents. AWS plan/export Preview.",
-      "live_url": "https://orrery-three-kappa.vercel.app",
-      "repo_url": "https://github.com/GODOSTROYER/zenith"
-    },
     {
       "name": "Cadence",
       "summary": "An evaluated AI support agent for @SpotifyCares: classifies a tweet, drafts a grounded reply of at most 280 characters and decides whether to escalate. 0.938 escalation recall on a frozen holdout.",
@@ -69,36 +66,6 @@
     }
   ],
   "projects": [
-    {
-      "title": "Zenith",
-      "repo": "zenith",
-      "repo_url": "https://github.com/GODOSTROYER/zenith",
-      "demo_url": "https://orrery-three-kappa.vercel.app",
-      "stack": [
-        "TypeScript",
-        "Next.js",
-        "React",
-        "Three.js"
-      ],
-      "release_url": null,
-      "subtitle": "Your cloud, in full view",
-      "image": "assets/projects/zenith-landing.jpg",
-      "description": "A visual cloud workspace where the system map, source, API and Navigator agent share one typed manifest. Preview changes, understand their cost and keep the infrastructure portable with Terraform exports.",
-      "alt": "The current Zenith landing page: oversized white lettering over a star-filled sky and layered copper mountains.",
-      "note": "Real screenshots of the current public site. Interactive examples use synthetic data; AWS is plan/export Preview. Managed hosting and multicloud are roadmap concepts.",
-      "gallery": [
-        {
-          "image": "assets/projects/zenith-system.jpg",
-          "alt": "Zenith’s interactive system example alongside the shared human-and-agent plan and approval path.",
-          "caption": "See the system. Review the change. People and agents follow the same approval path."
-        },
-        {
-          "image": "assets/projects/zenith-planning.jpg",
-          "alt": "Zenith’s synthetic cost comparison, shared system model and portable Terraform export panels.",
-          "caption": "An illustrated cost comparison and portable exports. Figures are synthetic examples, not a live cloud bill."
-        }
-      ]
-    },
     {
       "title": "Sentinel",
       "repo": "sentinel-vad",

@@ -36,7 +36,8 @@ class RendererTests(unittest.TestCase):
         self.snapshot = updater.empty_snapshot(self.config["username"])
 
     def test_gallery_escapes_text_and_rejects_missing_or_external_images(self):
-        shot = self.config["projects"][0]["gallery"][0]
+        shot = {"image": self.config["projects"][0]["image"], "alt": "", "caption": ""}
+        self.config["projects"][0]["gallery"] = [shot]
         shot["alt"] = '\"><script>bad</script>'
         shot["caption"] = '<script>bad</script>'
         markup = renderer.render_readme(self.config, self.snapshot)
@@ -65,6 +66,14 @@ class RendererTests(unittest.TestCase):
             accessible = svg.find(f"{SVG}desc").text
             self.assertIn("Python: 2", accessible)
             self.assertIn("Other: 1", accessible)
+
+    def test_hidden_repos_never_reach_releases_or_activity(self):
+        self.config["hidden_repos"] = ["user/Secret"]
+        entry = {"repo": "user/secret", "url": "https://github.com/user/secret", "date": "2026-01-01", "title": "Pushed to secret",
+                 "name": "v1", "tag": "v1", "published_at": "2026-01-01"}
+        self.snapshot["releases"] = [entry]
+        self.snapshot["activity"] = [entry]
+        self.assertNotIn("secret", renderer.render_readme(self.config, self.snapshot).lower())
 
     def test_unknown_contributions_render_without_inventing_counts(self):
         outputs = renderer.render_all(self.config, self.snapshot)
