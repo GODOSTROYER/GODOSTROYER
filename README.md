@@ -118,11 +118,11 @@ I build practical AI systems and interactive web experiences. Local models, visu
 
 <ul>
 
+<li><a href="https://github.com/boykopovar/AnyPS5/pull/27272">AnyPS5 — opened: pull request #27272</a> <sub>(25 Nov 2026)</sub></li>
+
+<li><a href="https://github.com/GODOSTROYER/AnyPS5/pull/1">AnyPS5 — closed: pull request #1</a> <sub>(25 Nov 2026)</sub></li>
+
 <li><a href="https://github.com/GODOSTROYER/BolRelay">BolRelay — Pushed to BolRelay</a> <sub>(19 Nov 2026)</sub></li>
-
-<li><a href="https://github.com/saivedant169/proofflow/pull/4">proofflow — merged: pull request #4</a> <sub>(16 Nov 2026)</sub></li>
-
-<li><a href="https://github.com/GODOSTROYER/renewal-compass">renewal-compass — Pushed to renewal-compass</a> <sub>(14 Nov 2026)</sub></li>
 
 </ul>
 

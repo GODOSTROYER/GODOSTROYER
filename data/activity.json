@@ -7,7 +7,7 @@
       "full_name": "GODOSTROYER/AnyPS5",
       "name": "AnyPS5",
       "updated_at": "2026-11-25T12:38:47Z",
-      "pushed_at": "2026-11-25T12:05:11Z",
+      "pushed_at": "2026-11-25T18:09:15Z",
       "html_url": "https://github.com/GODOSTROYER/AnyPS5",
       "description": "Tool for automatic PS5 executables porting to Linux and Windows",
       "homepage": "https://boykopovar.github.io/AnyPS5/",
@@ -63,7 +63,7 @@
       "full_name": "GODOSTROYER/GODOSTROYER",
       "name": "GODOSTROYER",
       "updated_at": "2026-11-12T12:26:49Z",
-      "pushed_at": "2026-11-24T13:53:22Z",
+      "pushed_at": "2026-11-25T13:07:36Z",
       "html_url": "https://github.com/GODOSTROYER/GODOSTROYER",
       "description": "Arnav Bule | Projects, experiments, and public work",
       "homepage": null,
@@ -603,6 +603,27 @@
   ],
   "activity": [
     {
+      "type": "PullRequestEvent",
+      "repo": "boykopovar/AnyPS5",
+      "title": "opened: pull request #27272",
+      "url": "https://github.com/boykopovar/AnyPS5/pull/27272",
+      "date": "2026-11-25T17:32:02Z"
+    },
+    {
+      "type": "PullRequestEvent",
+      "repo": "GODOSTROYER/AnyPS5",
+      "title": "closed: pull request #1",
+      "url": "https://github.com/GODOSTROYER/AnyPS5/pull/1",
+      "date": "2026-11-25T14:33:05Z"
+    },
+    {
+      "type": "PullRequestEvent",
+      "repo": "GODOSTROYER/AnyPS5",
+      "title": "opened: pull request #1",
+      "url": "https://github.com/GODOSTROYER/AnyPS5/pull/1",
+      "date": "2026-11-25T14:33:05Z"
+    },
+    {
       "type": "PushEvent",
       "repo": "GODOSTROYER/BolRelay",
       "title": "Pushed to BolRelay",
@@ -622,33 +643,12 @@
       "title": "merged: pull request #4",
       "url": "https://github.com/saivedant169/proofflow/pull/4",
       "date": "2026-11-16T13:01:19Z"
-    },
-    {
-      "type": "PullRequestEvent",
-      "repo": "saivedant169/proofflow",
-      "title": "opened: pull request #4",
-      "url": "https://github.com/saivedant169/proofflow/pull/4",
-      "date": "2026-11-16T12:58:24Z"
-    },
-    {
-      "type": "PullRequestEvent",
-      "repo": "saivedant169/proofflow",
-      "title": "merged: pull request #3",
-      "url": "https://github.com/saivedant169/proofflow/pull/3",
-      "date": "2026-11-16T12:08:52Z"
-    },
-    {
-      "type": "PushEvent",
-      "repo": "GODOSTROYER/renewal-compass",
-      "title": "Pushed to renewal-compass",
-      "url": "https://github.com/GODOSTROYER/renewal-compass",
-      "date": "2026-11-14T10:13:30Z"
     }
   ],
   "contributions": {
-    "total": 1749,
+    "total": 1751,
     "from": "2025-11-23T00:00:00Z",
-    "to": "2026-11-25T23:59:59Z",
+    "to": "2026-11-26T23:59:59Z",
     "weeks": [
       {
         "days": [
@@ -2697,8 +2697,13 @@
           },
           {
             "date": "2026-11-25",
-            "count": 1,
+            "count": 3,
             "level": 1
+          },
+          {
+            "date": "2026-11-26",
+            "count": 0,
+            "level": 0
           }
         ]
       }
