@@ -90,25 +90,13 @@ I build practical AI systems and interactive web experiences. Local models, visu
 
 </ul>
 
-<p><strong>Recent public activity</strong></p>
-
-<ul>
-
-<li><a href="https://github.com/boykopovar/AnyPS5/pull/27272">AnyPS5 — opened: pull request #27272</a> <sub>(25 Nov 2026)</sub></li>
-
-<li><a href="https://github.com/GODOSTROYER/AnyPS5/pull/1">AnyPS5 — closed: pull request #1</a> <sub>(25 Nov 2026)</sub></li>
-
-<li><a href="https://github.com/GODOSTROYER/BolRelay">BolRelay — Pushed to BolRelay</a> <sub>(19 Nov 2026)</sub></li>
-
-</ul>
-
-<p><sub>Last refreshed 26 Nov 2026 · from public GitHub activity.</sub></p>
+<p><sub>Last refreshed 27 Nov 2026 · from public GitHub activity.</sub></p>
 
 <picture>
   <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/generated/work-map-mobile-dark.svg">
   <source media="(max-width: 600px)" srcset="assets/generated/work-map-mobile-light.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/generated/work-map-dark.svg">
-  <img src="assets/generated/work-map-light.svg" width="1200" alt="31 public repositories by primary language: TypeScript: 9, Python: 9, JavaScript: 7, Other languages: 6. One node per repository. Forks, archives, and this profile repository excluded. Repository distribution, not proficiency.">
+  <img src="assets/generated/work-map-light.svg" width="1200" alt="32 public repositories by primary language: TypeScript: 10, Python: 9, JavaScript: 7, Other languages: 6. One node per repository. Forks, archives, and this profile repository excluded. Repository distribution, not proficiency.">
 </picture>
 
 <details>
