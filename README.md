@@ -90,7 +90,15 @@ I build practical AI systems and interactive web experiences. Local models, visu
 
 </ul>
 
-<p><sub>Last refreshed 27 Nov 2026 · from public GitHub activity.</sub></p>
+<p><strong>Recent public activity</strong></p>
+
+<ul>
+
+<li><a href="https://github.com/boykopovar/AnyPS5/pull/27272">AnyPS5 — merged: pull request #27272</a> <sub>(28 Nov 2026)</sub></li>
+
+</ul>
+
+<p><sub>Last refreshed 28 Nov 2026 · from public GitHub activity.</sub></p>
 
 <picture>
   <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/generated/work-map-mobile-dark.svg">
